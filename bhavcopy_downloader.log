@@ -1,0 +1,1716 @@
+2025-07-02 13:37:25,046 [INFO] Starting download for year 2025
+2025-07-02 13:37:26,067 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250421_F_0000.csv.zip
+2025-07-02 13:37:26,080 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250617_F_0000.csv.zip
+2025-07-02 13:37:26,080 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250708_F_0000.csv.zip
+2025-07-02 13:37:26,081 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250130_F_0000.csv.zip
+2025-07-02 13:37:26,082 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250626_F_0000.csv.zip
+2025-07-02 13:37:26,403 [WARNING] Failed 20250708: Status 404
+2025-07-02 13:37:26,404 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250606_F_0000.csv.zip
+2025-07-02 13:37:26,829 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250130_F_0000.csv
+2025-07-02 13:37:26,945 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250130.csv
+2025-07-02 13:37:26,946 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250620_F_0000.csv.zip
+2025-07-02 13:37:26,972 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250617_F_0000.csv
+2025-07-02 13:37:27,183 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250617.csv
+2025-07-02 13:37:27,248 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250626_F_0000.csv
+2025-07-02 13:37:27,332 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250626.csv
+2025-07-02 13:37:27,333 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250106_F_0000.csv.zip
+2025-07-02 13:37:27,335 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250730_F_0000.csv.zip
+2025-07-02 13:37:27,366 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250421_F_0000.csv
+2025-07-02 13:37:27,445 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250421.csv
+2025-07-02 13:37:27,446 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250709_F_0000.csv.zip
+2025-07-02 13:37:27,479 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250606_F_0000.csv
+2025-07-02 13:37:27,548 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250606.csv
+2025-07-02 13:37:27,550 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250414_F_0000.csv.zip
+2025-07-02 13:37:27,554 [WARNING] Failed 20250730: Status 404
+2025-07-02 13:37:27,578 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250620_F_0000.csv
+2025-07-02 13:37:27,644 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250620.csv
+2025-07-02 13:37:27,645 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250409_F_0000.csv.zip
+2025-07-02 13:37:27,646 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250728_F_0000.csv.zip
+2025-07-02 13:37:27,673 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250106_F_0000.csv
+2025-07-02 13:37:27,739 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250106.csv
+2025-07-02 13:37:27,741 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250502_F_0000.csv.zip
+2025-07-02 13:37:27,742 [WARNING] Failed 20250709: Status 404
+2025-07-02 13:37:27,742 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250613_F_0000.csv.zip
+2025-07-02 13:37:27,743 [WARNING] Failed 20250414: Status 404
+2025-07-02 13:37:27,744 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250604_F_0000.csv.zip
+2025-07-02 13:37:27,796 [WARNING] Failed 20250728: Status 404
+2025-07-02 13:37:27,797 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250521_F_0000.csv.zip
+2025-07-02 13:37:27,886 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250409_F_0000.csv
+2025-07-02 13:37:27,998 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250409.csv
+2025-07-02 13:37:28,003 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250423_F_0000.csv.zip
+2025-07-02 13:37:28,056 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250502_F_0000.csv
+2025-07-02 13:37:28,117 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250502.csv
+2025-07-02 13:37:28,143 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250604_F_0000.csv
+2025-07-02 13:37:28,209 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250604.csv
+2025-07-02 13:37:28,210 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250109_F_0000.csv.zip
+2025-07-02 13:37:28,211 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250623_F_0000.csv.zip
+2025-07-02 13:37:28,233 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250613_F_0000.csv
+2025-07-02 13:37:28,289 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250613.csv
+2025-07-02 13:37:28,290 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250402_F_0000.csv.zip
+2025-07-02 13:37:28,310 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250423_F_0000.csv
+2025-07-02 13:37:28,363 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250423.csv
+2025-07-02 13:37:28,364 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250418_F_0000.csv.zip
+2025-07-02 13:37:28,382 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250521_F_0000.csv
+2025-07-02 13:37:28,443 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250521.csv
+2025-07-02 13:37:28,444 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250717_F_0000.csv.zip
+2025-07-02 13:37:28,462 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250109_F_0000.csv
+2025-07-02 13:37:28,516 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250109.csv
+2025-07-02 13:37:28,518 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250224_F_0000.csv.zip
+2025-07-02 13:37:28,541 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250623_F_0000.csv
+2025-07-02 13:37:28,609 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250623.csv
+2025-07-02 13:37:28,610 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250627_F_0000.csv.zip
+2025-07-02 13:37:28,612 [WARNING] Failed 20250418: Status 404
+2025-07-02 13:37:28,612 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250325_F_0000.csv.zip
+2025-07-02 13:37:28,613 [WARNING] Failed 20250717: Status 404
+2025-07-02 13:37:28,614 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250519_F_0000.csv.zip
+2025-07-02 13:37:28,633 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250402_F_0000.csv
+2025-07-02 13:37:28,692 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250402.csv
+2025-07-02 13:37:28,693 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250723_F_0000.csv.zip
+2025-07-02 13:37:28,712 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250224_F_0000.csv
+2025-07-02 13:37:28,763 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250224.csv
+2025-07-02 13:37:28,764 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250218_F_0000.csv.zip
+2025-07-02 13:37:28,893 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250519_F_0000.csv
+2025-07-02 13:37:28,947 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250519.csv
+2025-07-02 13:37:28,947 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250306_F_0000.csv.zip
+2025-07-02 13:37:28,949 [WARNING] Failed 20250723: Status 404
+2025-07-02 13:37:28,966 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250325_F_0000.csv
+2025-07-02 13:37:29,020 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250325.csv
+2025-07-02 13:37:29,038 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250627_F_0000.csv
+2025-07-02 13:37:29,090 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250627.csv
+2025-07-02 13:37:29,091 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250212_F_0000.csv.zip
+2025-07-02 13:37:29,092 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250319_F_0000.csv.zip
+2025-07-02 13:37:29,093 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250304_F_0000.csv.zip
+2025-07-02 13:37:29,111 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250218_F_0000.csv
+2025-07-02 13:37:29,162 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250218.csv
+2025-07-02 13:37:29,163 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250416_F_0000.csv.zip
+2025-07-02 13:37:29,182 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250306_F_0000.csv
+2025-07-02 13:37:29,242 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250306.csv
+2025-07-02 13:37:29,243 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250704_F_0000.csv.zip
+2025-07-02 13:37:29,313 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250212_F_0000.csv
+2025-07-02 13:37:29,374 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250212.csv
+2025-07-02 13:37:29,374 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250605_F_0000.csv.zip
+2025-07-02 13:37:29,408 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250319_F_0000.csv
+2025-07-02 13:37:29,466 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250319.csv
+2025-07-02 13:37:29,469 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250528_F_0000.csv.zip
+2025-07-02 13:37:29,489 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250416_F_0000.csv
+2025-07-02 13:37:29,541 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250416.csv
+2025-07-02 13:37:29,542 [WARNING] Failed 20250704: Status 404
+2025-07-02 13:37:29,560 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250304_F_0000.csv
+2025-07-02 13:37:29,614 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250304.csv
+2025-07-02 13:37:29,614 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250318_F_0000.csv.zip
+2025-07-02 13:37:29,615 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250313_F_0000.csv.zip
+2025-07-02 13:37:29,616 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250113_F_0000.csv.zip
+2025-07-02 13:37:29,640 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250605_F_0000.csv
+2025-07-02 13:37:29,693 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250605.csv
+2025-07-02 13:37:29,694 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250314_F_0000.csv.zip
+2025-07-02 13:37:29,710 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250528_F_0000.csv
+2025-07-02 13:37:29,762 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250528.csv
+2025-07-02 13:37:29,762 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250207_F_0000.csv.zip
+2025-07-02 13:37:29,913 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250313_F_0000.csv
+2025-07-02 13:37:29,963 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250313.csv
+2025-07-02 13:37:29,965 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250424_F_0000.csv.zip
+2025-07-02 13:37:29,991 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250113_F_0000.csv
+2025-07-02 13:37:30,046 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250113.csv
+2025-07-02 13:37:30,047 [WARNING] Failed 20250314: Status 404
+2025-07-02 13:37:30,048 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250429_F_0000.csv.zip
+2025-07-02 13:37:30,068 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250318_F_0000.csv
+2025-07-02 13:37:30,130 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250318.csv
+2025-07-02 13:37:30,130 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250305_F_0000.csv.zip
+2025-07-02 13:37:30,131 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250508_F_0000.csv.zip
+2025-07-02 13:37:30,156 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250207_F_0000.csv
+2025-07-02 13:37:30,217 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250207.csv
+2025-07-02 13:37:30,219 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250602_F_0000.csv.zip
+2025-07-02 13:37:30,244 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250424_F_0000.csv
+2025-07-02 13:37:30,294 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250424.csv
+2025-07-02 13:37:30,295 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250324_F_0000.csv.zip
+2025-07-02 13:37:30,314 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250429_F_0000.csv
+2025-07-02 13:37:30,364 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250429.csv
+2025-07-02 13:37:30,365 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250718_F_0000.csv.zip
+2025-07-02 13:37:30,386 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250305_F_0000.csv
+2025-07-02 13:37:30,441 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250305.csv
+2025-07-02 13:37:30,442 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250630_F_0000.csv.zip
+2025-07-02 13:37:30,460 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250508_F_0000.csv
+2025-07-02 13:37:30,511 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250508.csv
+2025-07-02 13:37:30,512 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250707_F_0000.csv.zip
+2025-07-02 13:37:30,546 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250602_F_0000.csv
+2025-07-02 13:37:30,621 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250602.csv
+2025-07-02 13:37:30,622 [WARNING] Failed 20250718: Status 404
+2025-07-02 13:37:30,622 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250326_F_0000.csv.zip
+2025-07-02 13:37:30,623 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250204_F_0000.csv.zip
+2025-07-02 13:37:30,643 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250324_F_0000.csv
+2025-07-02 13:37:30,702 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250324.csv
+2025-07-02 13:37:30,706 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250114_F_0000.csv.zip
+2025-07-02 13:37:30,708 [WARNING] Failed 20250707: Status 404
+2025-07-02 13:37:30,730 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250630_F_0000.csv
+2025-07-02 13:37:30,789 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250630.csv
+2025-07-02 13:37:30,790 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250711_F_0000.csv.zip
+2025-07-02 13:37:30,790 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250124_F_0000.csv.zip
+2025-07-02 13:37:30,814 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250204_F_0000.csv
+2025-07-02 13:37:30,863 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250204.csv
+2025-07-02 13:37:30,864 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250513_F_0000.csv.zip
+2025-07-02 13:37:30,886 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250326_F_0000.csv
+2025-07-02 13:37:30,942 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250326.csv
+2025-07-02 13:37:30,942 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250731_F_0000.csv.zip
+2025-07-02 13:37:30,962 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250114_F_0000.csv
+2025-07-02 13:37:31,011 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250114.csv
+2025-07-02 13:37:31,012 [WARNING] Failed 20250711: Status 404
+2025-07-02 13:37:31,013 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250123_F_0000.csv.zip
+2025-07-02 13:37:31,014 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250307_F_0000.csv.zip
+2025-07-02 13:37:31,033 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250124_F_0000.csv
+2025-07-02 13:37:31,083 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250124.csv
+2025-07-02 13:37:31,086 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250102_F_0000.csv.zip
+2025-07-02 13:37:31,108 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250513_F_0000.csv
+2025-07-02 13:37:31,166 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250513.csv
+2025-07-02 13:37:31,168 [WARNING] Failed 20250731: Status 404
+2025-07-02 13:37:31,170 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250225_F_0000.csv.zip
+2025-07-02 13:37:31,172 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250120_F_0000.csv.zip
+2025-07-02 13:37:31,220 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250307_F_0000.csv
+2025-07-02 13:37:31,313 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250307.csv
+2025-07-02 13:37:31,313 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250116_F_0000.csv.zip
+2025-07-02 13:37:31,333 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250123_F_0000.csv
+2025-07-02 13:37:31,409 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250123.csv
+2025-07-02 13:37:31,409 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250213_F_0000.csv.zip
+2025-07-02 13:37:31,427 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250102_F_0000.csv
+2025-07-02 13:37:31,489 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250102.csv
+2025-07-02 13:37:31,490 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250619_F_0000.csv.zip
+2025-07-02 13:37:31,512 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250225_F_0000.csv
+2025-07-02 13:37:31,582 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250225.csv
+2025-07-02 13:37:31,583 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250725_F_0000.csv.zip
+2025-07-02 13:37:31,607 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250120_F_0000.csv
+2025-07-02 13:37:31,662 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250120.csv
+2025-07-02 13:37:31,663 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250103_F_0000.csv.zip
+2025-07-02 13:37:31,682 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250116_F_0000.csv
+2025-07-02 13:37:31,743 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250116.csv
+2025-07-02 13:37:31,745 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250205_F_0000.csv.zip
+2025-07-02 13:37:31,773 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250213_F_0000.csv
+2025-07-02 13:37:31,845 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250213.csv
+2025-07-02 13:37:31,846 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250128_F_0000.csv.zip
+2025-07-02 13:37:31,867 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250619_F_0000.csv
+2025-07-02 13:37:31,944 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250619.csv
+2025-07-02 13:37:31,945 [WARNING] Failed 20250725: Status 404
+2025-07-02 13:37:31,946 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250422_F_0000.csv.zip
+2025-07-02 13:37:31,947 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250206_F_0000.csv.zip
+2025-07-02 13:37:31,975 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250103_F_0000.csv
+2025-07-02 13:37:32,033 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250103.csv
+2025-07-02 13:37:32,058 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250205_F_0000.csv
+2025-07-02 13:37:32,117 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250205.csv
+2025-07-02 13:37:32,119 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250616_F_0000.csv.zip
+2025-07-02 13:37:32,120 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250520_F_0000.csv.zip
+2025-07-02 13:37:32,145 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250128_F_0000.csv
+2025-07-02 13:37:32,217 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250128.csv
+2025-07-02 13:37:32,219 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250710_F_0000.csv.zip
+2025-07-02 13:37:32,238 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250422_F_0000.csv
+2025-07-02 13:37:32,298 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250422.csv
+2025-07-02 13:37:32,299 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250129_F_0000.csv.zip
+2025-07-02 13:37:32,322 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250206_F_0000.csv
+2025-07-02 13:37:32,371 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250206.csv
+2025-07-02 13:37:32,373 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250220_F_0000.csv.zip
+2025-07-02 13:37:32,375 [WARNING] Failed 20250710: Status 404
+2025-07-02 13:37:32,394 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250616_F_0000.csv
+2025-07-02 13:37:32,465 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250616.csv
+2025-07-02 13:37:32,466 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250506_F_0000.csv.zip
+2025-07-02 13:37:32,468 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250115_F_0000.csv.zip
+2025-07-02 13:37:32,547 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250520_F_0000.csv
+2025-07-02 13:37:32,675 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250520.csv
+2025-07-02 13:37:32,676 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250127_F_0000.csv.zip
+2025-07-02 13:37:32,695 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250129_F_0000.csv
+2025-07-02 13:37:32,746 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250129.csv
+2025-07-02 13:37:32,747 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250516_F_0000.csv.zip
+2025-07-02 13:37:32,765 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250220_F_0000.csv
+2025-07-02 13:37:32,823 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250220.csv
+2025-07-02 13:37:32,847 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250506_F_0000.csv
+2025-07-02 13:37:32,908 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250506.csv
+2025-07-02 13:37:32,929 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250115_F_0000.csv
+2025-07-02 13:37:32,981 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250115.csv
+2025-07-02 13:37:32,982 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250211_F_0000.csv.zip
+2025-07-02 13:37:32,983 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250210_F_0000.csv.zip
+2025-07-02 13:37:32,986 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250514_F_0000.csv.zip
+2025-07-02 13:37:33,008 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250127_F_0000.csv
+2025-07-02 13:37:33,059 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250127.csv
+2025-07-02 13:37:33,083 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250516_F_0000.csv
+2025-07-02 13:37:33,143 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250516.csv
+2025-07-02 13:37:33,143 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250110_F_0000.csv.zip
+2025-07-02 13:37:33,144 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250415_F_0000.csv.zip
+2025-07-02 13:37:33,198 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250211_F_0000.csv
+2025-07-02 13:37:33,249 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250211.csv
+2025-07-02 13:37:33,250 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250428_F_0000.csv.zip
+2025-07-02 13:37:33,295 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250514_F_0000.csv
+2025-07-02 13:37:33,352 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250514.csv
+2025-07-02 13:37:33,354 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250625_F_0000.csv.zip
+2025-07-02 13:37:33,376 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250210_F_0000.csv
+2025-07-02 13:37:33,444 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250210.csv
+2025-07-02 13:37:33,445 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250724_F_0000.csv.zip
+2025-07-02 13:37:33,472 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250415_F_0000.csv
+2025-07-02 13:37:33,531 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250415.csv
+2025-07-02 13:37:33,553 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250110_F_0000.csv
+2025-07-02 13:37:33,601 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250110.csv
+2025-07-02 13:37:33,603 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250219_F_0000.csv.zip
+2025-07-02 13:37:33,605 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250404_F_0000.csv.zip
+2025-07-02 13:37:33,623 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250428_F_0000.csv
+2025-07-02 13:37:33,679 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250428.csv
+2025-07-02 13:37:33,680 [WARNING] Failed 20250724: Status 404
+2025-07-02 13:37:33,680 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250214_F_0000.csv.zip
+2025-07-02 13:37:33,681 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250312_F_0000.csv.zip
+2025-07-02 13:37:33,703 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250625_F_0000.csv
+2025-07-02 13:37:33,759 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250625.csv
+2025-07-02 13:37:33,760 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250624_F_0000.csv.zip
+2025-07-02 13:37:33,809 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250219_F_0000.csv
+2025-07-02 13:37:33,863 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250219.csv
+2025-07-02 13:37:33,863 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250702_F_0000.csv.zip
+2025-07-02 13:37:33,886 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250404_F_0000.csv
+2025-07-02 13:37:33,940 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250404.csv
+2025-07-02 13:37:33,940 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250410_F_0000.csv.zip
+2025-07-02 13:37:33,960 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250214_F_0000.csv
+2025-07-02 13:37:34,013 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250214.csv
+2025-07-02 13:37:34,014 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250509_F_0000.csv.zip
+2025-07-02 13:37:34,038 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250312_F_0000.csv
+2025-07-02 13:37:34,094 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250312.csv
+2025-07-02 13:37:34,095 [WARNING] Failed 20250702: Status 404
+2025-07-02 13:37:34,096 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250226_F_0000.csv.zip
+2025-07-02 13:37:34,096 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250526_F_0000.csv.zip
+2025-07-02 13:37:34,097 [WARNING] Failed 20250410: Status 404
+2025-07-02 13:37:34,098 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250217_F_0000.csv.zip
+2025-07-02 13:37:34,191 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250509_F_0000.csv
+2025-07-02 13:37:34,243 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250509.csv
+2025-07-02 13:37:34,244 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250611_F_0000.csv.zip
+2025-07-02 13:37:34,245 [WARNING] Failed 20250226: Status 404
+2025-07-02 13:37:34,246 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250529_F_0000.csv.zip
+2025-07-02 13:37:34,401 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250217_F_0000.csv
+2025-07-02 13:37:34,582 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250217.csv
+2025-07-02 13:37:34,588 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250530_F_0000.csv.zip
+2025-07-02 13:37:34,645 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250526_F_0000.csv
+2025-07-02 13:37:34,772 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250526.csv
+2025-07-02 13:37:34,796 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250611_F_0000.csv
+2025-07-02 13:37:34,869 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250611.csv
+2025-07-02 13:37:34,872 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250609_F_0000.csv.zip
+2025-07-02 13:37:34,873 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250101_F_0000.csv.zip
+2025-07-02 13:37:34,898 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250529_F_0000.csv
+2025-07-02 13:37:34,966 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250529.csv
+2025-07-02 13:37:34,996 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250624_F_0000.csv
+2025-07-02 13:37:35,282 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250624.csv
+2025-07-02 13:37:35,285 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250228_F_0000.csv.zip
+2025-07-02 13:37:35,287 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250321_F_0000.csv.zip
+2025-07-02 13:37:35,328 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250530_F_0000.csv
+2025-07-02 13:37:35,413 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250530.csv
+2025-07-02 13:37:35,415 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250320_F_0000.csv.zip
+2025-07-02 13:37:35,448 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250101_F_0000.csv
+2025-07-02 13:37:35,542 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250101.csv
+2025-07-02 13:37:35,544 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250303_F_0000.csv.zip
+2025-07-02 13:37:35,579 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250609_F_0000.csv
+2025-07-02 13:37:35,663 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250609.csv
+2025-07-02 13:37:35,665 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250618_F_0000.csv.zip
+2025-07-02 13:37:35,707 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250321_F_0000.csv
+2025-07-02 13:37:35,847 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250321.csv
+2025-07-02 13:37:35,874 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250228_F_0000.csv
+2025-07-02 13:37:35,941 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250228.csv
+2025-07-02 13:37:35,943 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250331_F_0000.csv.zip
+2025-07-02 13:37:35,944 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250527_F_0000.csv.zip
+2025-07-02 13:37:35,971 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250320_F_0000.csv
+2025-07-02 13:37:36,052 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250320.csv
+2025-07-02 13:37:36,054 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250430_F_0000.csv.zip
+2025-07-02 13:37:36,057 [WARNING] Failed 20250331: Status 404
+2025-07-02 13:37:36,082 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250303_F_0000.csv
+2025-07-02 13:37:36,196 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250303.csv
+2025-07-02 13:37:36,228 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250618_F_0000.csv
+2025-07-02 13:37:36,314 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250618.csv
+2025-07-02 13:37:36,315 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250716_F_0000.csv.zip
+2025-07-02 13:37:36,316 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250715_F_0000.csv.zip
+2025-07-02 13:37:36,318 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250425_F_0000.csv.zip
+2025-07-02 13:37:36,356 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250527_F_0000.csv
+2025-07-02 13:37:36,458 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250527.csv
+2025-07-02 13:37:36,557 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250430_F_0000.csv
+2025-07-02 13:37:36,859 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250430.csv
+2025-07-02 13:37:36,861 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250603_F_0000.csv.zip
+2025-07-02 13:37:36,863 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250317_F_0000.csv.zip
+2025-07-02 13:37:36,875 [WARNING] Failed 20250716: Status 404
+2025-07-02 13:37:36,881 [WARNING] Failed 20250715: Status 404
+2025-07-02 13:37:36,882 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250515_F_0000.csv.zip
+2025-07-02 13:37:36,893 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250610_F_0000.csv.zip
+2025-07-02 13:37:36,977 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250425_F_0000.csv
+2025-07-02 13:37:37,244 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250425.csv
+2025-07-02 13:37:37,245 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250714_F_0000.csv.zip
+2025-07-02 13:37:37,331 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250610_F_0000.csv
+2025-07-02 13:37:37,629 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250610.csv
+2025-07-02 13:37:38,144 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250603_F_0000.csv
+2025-07-02 13:37:38,553 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250603.csv
+2025-07-02 13:37:38,690 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250515_F_0000.csv
+2025-07-02 13:37:38,927 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250515.csv
+2025-07-02 13:37:38,973 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250317_F_0000.csv
+2025-07-02 13:37:39,091 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250317.csv
+2025-07-02 13:37:39,091 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250703_F_0000.csv.zip
+2025-07-02 13:37:39,093 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250107_F_0000.csv.zip
+2025-07-02 13:37:39,094 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250417_F_0000.csv.zip
+2025-07-02 13:37:39,095 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250411_F_0000.csv.zip
+2025-07-02 13:37:39,097 [WARNING] Failed 20250714: Status 404
+2025-07-02 13:37:39,098 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250721_F_0000.csv.zip
+2025-07-02 13:37:39,192 [WARNING] Failed 20250703: Status 404
+2025-07-02 13:37:39,193 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250121_F_0000.csv.zip
+2025-07-02 13:37:39,448 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250107_F_0000.csv
+2025-07-02 13:37:40,609 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250107.csv
+2025-07-02 13:37:40,611 [WARNING] Failed 20250721: Status 404
+2025-07-02 13:37:40,614 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250401_F_0000.csv.zip
+2025-07-02 13:37:40,625 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250108_F_0000.csv.zip
+2025-07-02 13:37:41,080 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250411_F_0000.csv
+2025-07-02 13:37:41,409 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250411.csv
+2025-07-02 13:37:41,413 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250522_F_0000.csv.zip
+2025-07-02 13:37:41,513 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250121_F_0000.csv
+2025-07-02 13:37:42,440 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250121.csv
+2025-07-02 13:37:42,545 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250417_F_0000.csv
+2025-07-02 13:37:44,147 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250417.csv
+2025-07-02 13:37:44,150 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250507_F_0000.csv.zip
+2025-07-02 13:37:44,158 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250722_F_0000.csv.zip
+2025-07-02 13:37:44,353 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250108_F_0000.csv
+2025-07-02 13:37:45,024 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250108.csv
+2025-07-02 13:37:45,379 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250401_F_0000.csv
+2025-07-02 13:37:45,896 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250401.csv
+2025-07-02 13:37:45,898 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250131_F_0000.csv.zip
+2025-07-02 13:37:45,901 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250512_F_0000.csv.zip
+2025-07-02 13:37:45,986 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250522_F_0000.csv
+2025-07-02 13:37:46,481 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250522.csv
+2025-07-02 13:37:46,489 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250203_F_0000.csv.zip
+2025-07-02 13:37:46,495 [WARNING] Failed 20250722: Status 404
+2025-07-02 13:37:46,598 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250403_F_0000.csv.zip
+2025-07-02 13:37:46,899 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250507_F_0000.csv
+2025-07-02 13:37:47,446 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250507.csv
+2025-07-02 13:37:47,497 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250729_F_0000.csv.zip
+2025-07-02 13:37:47,692 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250131_F_0000.csv
+2025-07-02 13:37:48,057 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250131.csv
+2025-07-02 13:37:48,148 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250512_F_0000.csv
+2025-07-02 13:37:48,508 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250512.csv
+2025-07-02 13:37:48,510 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250407_F_0000.csv.zip
+2025-07-02 13:37:48,512 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250505_F_0000.csv.zip
+2025-07-02 13:37:48,597 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250203_F_0000.csv
+2025-07-02 13:37:48,833 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250203.csv
+2025-07-02 13:37:48,839 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250221_F_0000.csv.zip
+2025-07-02 13:37:48,842 [WARNING] Failed 20250729: Status 404
+2025-07-02 13:37:48,931 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250403_F_0000.csv
+2025-07-02 13:37:49,176 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250403.csv
+2025-07-02 13:37:49,178 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250122_F_0000.csv.zip
+2025-07-02 13:37:49,182 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250701_F_0000.csv.zip
+2025-07-02 13:37:49,346 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250505_F_0000.csv
+2025-07-02 13:37:49,613 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250505.csv
+2025-07-02 13:37:49,648 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250501_F_0000.csv.zip
+2025-07-02 13:37:49,757 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250407_F_0000.csv
+2025-07-02 13:37:50,045 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250407.csv
+2025-07-02 13:37:50,049 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250117_F_0000.csv.zip
+2025-07-02 13:37:50,163 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250221_F_0000.csv
+2025-07-02 13:37:50,497 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250221.csv
+2025-07-02 13:37:50,502 [WARNING] Failed 20250501: Status 404
+2025-07-02 13:37:50,503 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250227_F_0000.csv.zip
+2025-07-02 13:37:50,570 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250122_F_0000.csv
+2025-07-02 13:37:50,806 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250122.csv
+2025-07-02 13:37:50,809 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250328_F_0000.csv.zip
+2025-07-02 13:37:50,899 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250701_F_0000.csv
+2025-07-02 13:37:51,176 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250701.csv
+2025-07-02 13:37:51,177 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250311_F_0000.csv.zip
+2025-07-02 13:37:51,181 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250310_F_0000.csv.zip
+2025-07-02 13:37:51,321 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250117_F_0000.csv
+2025-07-02 13:37:51,527 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250117.csv
+2025-07-02 13:37:51,529 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250523_F_0000.csv.zip
+2025-07-02 13:37:51,612 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250227_F_0000.csv
+2025-07-02 13:37:51,804 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250227.csv
+2025-07-02 13:37:51,807 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250612_F_0000.csv.zip
+2025-07-02 13:37:51,875 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250328_F_0000.csv
+2025-07-02 13:37:52,032 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250328.csv
+2025-07-02 13:37:52,038 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250327_F_0000.csv.zip
+2025-07-02 13:37:52,112 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250311_F_0000.csv
+2025-07-02 13:37:52,328 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250311.csv
+2025-07-02 13:37:52,382 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250310_F_0000.csv
+2025-07-02 13:37:52,560 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250310.csv
+2025-07-02 13:37:52,561 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250408_F_0000.csv.zip
+2025-07-02 13:37:52,616 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250523_F_0000.csv
+2025-07-02 13:37:52,777 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250523.csv
+2025-07-02 13:37:52,858 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250612_F_0000.csv
+2025-07-02 13:37:53,012 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250612.csv
+2025-07-02 13:37:53,071 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250327_F_0000.csv
+2025-07-02 13:37:53,275 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250327.csv
+2025-07-02 13:37:53,379 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250408_F_0000.csv
+2025-07-02 13:37:53,580 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250408.csv
+2025-07-02 13:37:53,581 [INFO] Downloaded 123 daily BhavCopy files for year 2025
+2025-07-02 13:40:30,130 [INFO] Starting download for year 2025
+2025-07-02 13:40:31,150 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250109_F_0000.csv.zip
+2025-07-02 13:40:31,155 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250408_F_0000.csv.zip
+2025-07-02 13:40:31,156 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250709_F_0000.csv.zip
+2025-07-02 13:40:31,156 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250711_F_0000.csv.zip
+2025-07-02 13:40:31,166 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250418_F_0000.csv.zip
+2025-07-02 13:40:31,422 [WARNING] Failed 20250418: Status 404
+2025-07-02 13:40:31,423 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250305_F_0000.csv.zip
+2025-07-02 13:40:31,425 [WARNING] Failed 20250709: Status 404
+2025-07-02 13:40:31,426 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250123_F_0000.csv.zip
+2025-07-02 13:40:31,443 [WARNING] Failed 20250711: Status 404
+2025-07-02 13:40:31,444 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250626_F_0000.csv.zip
+2025-07-02 13:40:31,488 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250109_F_0000.csv
+2025-07-02 13:40:31,562 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250109.csv
+2025-07-02 13:40:31,563 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250328_F_0000.csv.zip
+2025-07-02 13:40:31,609 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250305_F_0000.csv
+2025-07-02 13:40:31,682 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250305.csv
+2025-07-02 13:40:31,683 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250714_F_0000.csv.zip
+2025-07-02 13:40:31,728 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250408_F_0000.csv
+2025-07-02 13:40:31,800 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250408.csv
+2025-07-02 13:40:31,803 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250624_F_0000.csv.zip
+2025-07-02 13:40:31,829 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250328_F_0000.csv
+2025-07-02 13:40:31,904 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250328.csv
+2025-07-02 13:40:31,906 [WARNING] Failed 20250714: Status 404
+2025-07-02 13:40:31,906 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250528_F_0000.csv.zip
+2025-07-02 13:40:31,907 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250224_F_0000.csv.zip
+2025-07-02 13:40:32,005 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250624_F_0000.csv
+2025-07-02 13:40:32,068 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250624.csv
+2025-07-02 13:40:32,070 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250509_F_0000.csv.zip
+2025-07-02 13:40:32,094 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250528_F_0000.csv
+2025-07-02 13:40:32,146 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250528.csv
+2025-07-02 13:40:32,147 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250320_F_0000.csv.zip
+2025-07-02 13:40:32,169 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250224_F_0000.csv
+2025-07-02 13:40:32,229 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250224.csv
+2025-07-02 13:40:32,230 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250710_F_0000.csv.zip
+2025-07-02 13:40:32,254 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250626_F_0000.csv
+2025-07-02 13:40:32,308 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250626.csv
+2025-07-02 13:40:32,326 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250123_F_0000.csv
+2025-07-02 13:40:32,378 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250123.csv
+2025-07-02 13:40:32,380 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250120_F_0000.csv.zip
+2025-07-02 13:40:32,380 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250327_F_0000.csv.zip
+2025-07-02 13:40:32,398 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250509_F_0000.csv
+2025-07-02 13:40:32,454 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250509.csv
+2025-07-02 13:40:32,455 [WARNING] Failed 20250710: Status 404
+2025-07-02 13:40:32,456 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250321_F_0000.csv.zip
+2025-07-02 13:40:32,479 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250320_F_0000.csv
+2025-07-02 13:40:32,541 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250320.csv
+2025-07-02 13:40:32,542 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250313_F_0000.csv.zip
+2025-07-02 13:40:32,543 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250610_F_0000.csv.zip
+2025-07-02 13:40:32,567 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250327_F_0000.csv
+2025-07-02 13:40:32,743 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250327.csv
+2025-07-02 13:40:32,773 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250120_F_0000.csv
+2025-07-02 13:40:32,851 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250120.csv
+2025-07-02 13:40:32,852 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250527_F_0000.csv.zip
+2025-07-02 13:40:32,854 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250121_F_0000.csv.zip
+2025-07-02 13:40:32,888 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250321_F_0000.csv
+2025-07-02 13:40:32,974 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250321.csv
+2025-07-02 13:40:32,976 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250117_F_0000.csv.zip
+2025-07-02 13:40:33,005 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250610_F_0000.csv
+2025-07-02 13:40:33,097 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250610.csv
+2025-07-02 13:40:33,130 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250313_F_0000.csv
+2025-07-02 13:40:33,286 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250313.csv
+2025-07-02 13:40:33,310 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250618_F_0000.csv.zip
+2025-07-02 13:40:33,321 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250317_F_0000.csv.zip
+2025-07-02 13:40:33,380 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250121_F_0000.csv
+2025-07-02 13:40:33,477 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250121.csv
+2025-07-02 13:40:33,524 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250527_F_0000.csv
+2025-07-02 13:40:33,625 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250527.csv
+2025-07-02 13:40:33,626 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250227_F_0000.csv.zip
+2025-07-02 13:40:33,627 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250303_F_0000.csv.zip
+2025-07-02 13:40:33,671 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250117_F_0000.csv
+2025-07-02 13:40:33,757 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250117.csv
+2025-07-02 13:40:33,758 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250212_F_0000.csv.zip
+2025-07-02 13:40:33,787 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250618_F_0000.csv
+2025-07-02 13:40:33,873 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250618.csv
+2025-07-02 13:40:33,909 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250317_F_0000.csv
+2025-07-02 13:40:33,988 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250317.csv
+2025-07-02 13:40:33,988 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250325_F_0000.csv.zip
+2025-07-02 13:40:34,013 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250303_F_0000.csv
+2025-07-02 13:40:34,102 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250303.csv
+2025-07-02 13:40:34,103 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250602_F_0000.csv.zip
+2025-07-02 13:40:34,130 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250227_F_0000.csv
+2025-07-02 13:40:34,246 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250227.csv
+2025-07-02 13:40:34,246 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250424_F_0000.csv.zip
+2025-07-02 13:40:34,249 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250403_F_0000.csv.zip
+2025-07-02 13:40:34,279 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250212_F_0000.csv
+2025-07-02 13:40:34,365 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250212.csv
+2025-07-02 13:40:34,367 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250102_F_0000.csv.zip
+2025-07-02 13:40:34,391 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250325_F_0000.csv
+2025-07-02 13:40:34,585 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250325.csv
+2025-07-02 13:40:34,587 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250124_F_0000.csv.zip
+2025-07-02 13:40:34,612 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250602_F_0000.csv
+2025-07-02 13:40:34,693 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250602.csv
+2025-07-02 13:40:34,695 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250529_F_0000.csv.zip
+2025-07-02 13:40:34,725 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250424_F_0000.csv
+2025-07-02 13:40:34,803 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250424.csv
+2025-07-02 13:40:34,829 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250403_F_0000.csv
+2025-07-02 13:40:34,903 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250403.csv
+2025-07-02 13:40:34,904 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250414_F_0000.csv.zip
+2025-07-02 13:40:34,906 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250721_F_0000.csv.zip
+2025-07-02 13:40:34,934 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250102_F_0000.csv
+2025-07-02 13:40:35,028 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250102.csv
+2025-07-02 13:40:35,037 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250515_F_0000.csv.zip
+2025-07-02 13:40:35,076 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250124_F_0000.csv
+2025-07-02 13:40:35,196 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250124.csv
+2025-07-02 13:40:35,204 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250307_F_0000.csv.zip
+2025-07-02 13:40:35,205 [WARNING] Failed 20250721: Status 404
+2025-07-02 13:40:35,209 [WARNING] Failed 20250414: Status 404
+2025-07-02 13:40:35,244 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250529_F_0000.csv
+2025-07-02 13:40:35,329 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250529.csv
+2025-07-02 13:40:35,329 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250512_F_0000.csv.zip
+2025-07-02 13:40:35,330 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250516_F_0000.csv.zip
+2025-07-02 13:40:35,333 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250131_F_0000.csv.zip
+2025-07-02 13:40:35,363 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250515_F_0000.csv
+2025-07-02 13:40:35,497 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250515.csv
+2025-07-02 13:40:35,499 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250501_F_0000.csv.zip
+2025-07-02 13:40:35,535 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250307_F_0000.csv
+2025-07-02 13:40:35,637 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250307.csv
+2025-07-02 13:40:35,639 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250207_F_0000.csv.zip
+2025-07-02 13:40:35,662 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250131_F_0000.csv
+2025-07-02 13:40:35,762 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250131.csv
+2025-07-02 13:40:35,764 [WARNING] Failed 20250501: Status 404
+2025-07-02 13:40:35,806 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250516_F_0000.csv
+2025-07-02 13:40:35,989 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250516.csv
+2025-07-02 13:40:35,991 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250103_F_0000.csv.zip
+2025-07-02 13:40:36,060 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250512_F_0000.csv
+2025-07-02 13:40:36,184 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250512.csv
+2025-07-02 13:40:36,185 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250422_F_0000.csv.zip
+2025-07-02 13:40:36,186 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250417_F_0000.csv.zip
+2025-07-02 13:40:36,187 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250717_F_0000.csv.zip
+2025-07-02 13:40:36,217 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250207_F_0000.csv
+2025-07-02 13:40:36,294 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250207.csv
+2025-07-02 13:40:36,322 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250103_F_0000.csv
+2025-07-02 13:40:36,394 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250103.csv
+2025-07-02 13:40:36,396 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250122_F_0000.csv.zip
+2025-07-02 13:40:36,397 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250520_F_0000.csv.zip
+2025-07-02 13:40:36,402 [WARNING] Failed 20250717: Status 404
+2025-07-02 13:40:36,404 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250604_F_0000.csv.zip
+2025-07-02 13:40:36,430 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250422_F_0000.csv
+2025-07-02 13:40:36,512 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250422.csv
+2025-07-02 13:40:36,541 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250417_F_0000.csv
+2025-07-02 13:40:36,617 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250417.csv
+2025-07-02 13:40:36,619 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250409_F_0000.csv.zip
+2025-07-02 13:40:36,621 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250522_F_0000.csv.zip
+2025-07-02 13:40:36,654 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250604_F_0000.csv
+2025-07-02 13:40:36,835 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250604.csv
+2025-07-02 13:40:36,894 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250520_F_0000.csv
+2025-07-02 13:40:36,996 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250520.csv
+2025-07-02 13:40:37,024 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250122_F_0000.csv
+2025-07-02 13:40:37,110 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250122.csv
+2025-07-02 13:40:37,111 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250425_F_0000.csv.zip
+2025-07-02 13:40:37,113 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250410_F_0000.csv.zip
+2025-07-02 13:40:37,117 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250411_F_0000.csv.zip
+2025-07-02 13:40:37,164 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250409_F_0000.csv
+2025-07-02 13:40:37,264 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250409.csv
+2025-07-02 13:40:37,295 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250522_F_0000.csv
+2025-07-02 13:40:37,407 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250522.csv
+2025-07-02 13:40:37,408 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250429_F_0000.csv.zip
+2025-07-02 13:40:37,410 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250521_F_0000.csv.zip
+2025-07-02 13:40:37,414 [WARNING] Failed 20250410: Status 404
+2025-07-02 13:40:37,456 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250620_F_0000.csv.zip
+2025-07-02 13:40:37,524 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250425_F_0000.csv
+2025-07-02 13:40:37,659 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250425.csv
+2025-07-02 13:40:37,662 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250530_F_0000.csv.zip
+2025-07-02 13:40:37,737 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250411_F_0000.csv
+2025-07-02 13:40:37,878 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250411.csv
+2025-07-02 13:40:37,880 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250508_F_0000.csv.zip
+2025-07-02 13:40:37,929 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250429_F_0000.csv
+2025-07-02 13:40:38,037 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250429.csv
+2025-07-02 13:40:38,039 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250127_F_0000.csv.zip
+2025-07-02 13:40:38,078 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250521_F_0000.csv
+2025-07-02 13:40:38,188 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250521.csv
+2025-07-02 13:40:38,189 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250205_F_0000.csv.zip
+2025-07-02 13:40:38,229 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250620_F_0000.csv
+2025-07-02 13:40:38,346 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250620.csv
+2025-07-02 13:40:38,390 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250530_F_0000.csv
+2025-07-02 13:40:38,808 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250530.csv
+2025-07-02 13:40:38,873 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250116_F_0000.csv.zip
+2025-07-02 13:40:38,991 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250627_F_0000.csv.zip
+2025-07-02 13:40:39,460 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250508_F_0000.csv
+2025-07-02 13:40:39,813 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250508.csv
+2025-07-02 13:40:39,818 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250430_F_0000.csv.zip
+2025-07-02 13:40:39,910 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250127_F_0000.csv
+2025-07-02 13:40:40,195 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250127.csv
+2025-07-02 13:40:40,267 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250205_F_0000.csv
+2025-07-02 13:40:40,458 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250205.csv
+2025-07-02 13:40:40,461 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250514_F_0000.csv.zip
+2025-07-02 13:40:40,463 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250617_F_0000.csv.zip
+2025-07-02 13:40:40,547 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250116_F_0000.csv
+2025-07-02 13:40:40,788 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250116.csv
+2025-07-02 13:40:40,791 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250203_F_0000.csv.zip
+2025-07-02 13:40:40,876 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250627_F_0000.csv
+2025-07-02 13:40:41,056 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250627.csv
+2025-07-02 13:40:41,097 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250430_F_0000.csv
+2025-07-02 13:40:41,252 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250430.csv
+2025-07-02 13:40:41,254 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250113_F_0000.csv.zip
+2025-07-02 13:40:41,256 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250703_F_0000.csv.zip
+2025-07-02 13:40:41,323 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250514_F_0000.csv
+2025-07-02 13:40:41,492 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250514.csv
+2025-07-02 13:40:41,558 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250617_F_0000.csv
+2025-07-02 13:40:41,778 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250617.csv
+2025-07-02 13:40:41,780 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250228_F_0000.csv.zip
+2025-07-02 13:40:41,785 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250730_F_0000.csv.zip
+2025-07-02 13:40:41,869 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250203_F_0000.csv
+2025-07-02 13:40:42,046 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250203.csv
+2025-07-02 13:40:42,054 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250204_F_0000.csv.zip
+2025-07-02 13:40:42,056 [WARNING] Failed 20250703: Status 404
+2025-07-02 13:40:42,058 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250101_F_0000.csv.zip
+2025-07-02 13:40:42,060 [WARNING] Failed 20250730: Status 404
+2025-07-02 13:40:42,147 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250113_F_0000.csv
+2025-07-02 13:40:42,329 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250113.csv
+2025-07-02 13:40:42,330 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250210_F_0000.csv.zip
+2025-07-02 13:40:42,334 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250707_F_0000.csv.zip
+2025-07-02 13:40:42,435 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250228_F_0000.csv
+2025-07-02 13:40:42,640 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250228.csv
+2025-07-02 13:40:42,642 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250130_F_0000.csv.zip
+2025-07-02 13:40:42,724 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250101_F_0000.csv
+2025-07-02 13:40:42,980 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250101.csv
+2025-07-02 13:40:42,986 [WARNING] Failed 20250707: Status 404
+2025-07-02 13:40:43,075 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250204_F_0000.csv
+2025-07-02 13:40:43,287 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250204.csv
+2025-07-02 13:40:43,289 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250217_F_0000.csv.zip
+2025-07-02 13:40:43,292 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250218_F_0000.csv.zip
+2025-07-02 13:40:43,296 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250506_F_0000.csv.zip
+2025-07-02 13:40:43,387 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250210_F_0000.csv
+2025-07-02 13:40:43,710 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250210.csv
+2025-07-02 13:40:43,712 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250612_F_0000.csv.zip
+2025-07-02 13:40:43,829 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250130_F_0000.csv
+2025-07-02 13:40:44,230 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250130.csv
+2025-07-02 13:40:44,236 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250128_F_0000.csv.zip
+2025-07-02 13:40:44,324 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250506_F_0000.csv
+2025-07-02 13:40:44,577 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250506.csv
+2025-07-02 13:40:44,654 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250218_F_0000.csv
+2025-07-02 13:40:44,910 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250218.csv
+2025-07-02 13:40:44,983 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250217_F_0000.csv
+2025-07-02 13:40:45,147 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250217.csv
+2025-07-02 13:40:45,149 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250402_F_0000.csv.zip
+2025-07-02 13:40:45,152 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250115_F_0000.csv.zip
+2025-07-02 13:40:45,215 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250612_F_0000.csv
+2025-07-02 13:40:45,470 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250612.csv
+2025-07-02 13:40:45,471 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250716_F_0000.csv.zip
+2025-07-02 13:40:45,473 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250728_F_0000.csv.zip
+2025-07-02 13:40:45,553 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250128_F_0000.csv
+2025-07-02 13:40:45,792 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250128.csv
+2025-07-02 13:40:45,793 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250731_F_0000.csv.zip
+2025-07-02 13:40:45,870 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250115_F_0000.csv
+2025-07-02 13:40:46,029 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250115.csv
+2025-07-02 13:40:46,092 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250402_F_0000.csv
+2025-07-02 13:40:46,229 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250402.csv
+2025-07-02 13:40:46,230 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250214_F_0000.csv.zip
+2025-07-02 13:40:46,233 [WARNING] Failed 20250728: Status 404
+2025-07-02 13:40:46,236 [WARNING] Failed 20250716: Status 404
+2025-07-02 13:40:46,238 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250704_F_0000.csv.zip
+2025-07-02 13:40:46,240 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250507_F_0000.csv.zip
+2025-07-02 13:40:46,241 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250304_F_0000.csv.zip
+2025-07-02 13:40:46,243 [WARNING] Failed 20250731: Status 404
+2025-07-02 13:40:46,244 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250407_F_0000.csv.zip
+2025-07-02 13:40:46,415 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250507_F_0000.csv
+2025-07-02 13:40:46,567 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250507.csv
+2025-07-02 13:40:46,569 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250319_F_0000.csv.zip
+2025-07-02 13:40:46,578 [WARNING] Failed 20250704: Status 404
+2025-07-02 13:40:46,580 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250701_F_0000.csv.zip
+2025-07-02 13:40:46,641 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250214_F_0000.csv
+2025-07-02 13:40:46,805 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250214.csv
+2025-07-02 13:40:46,855 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250407_F_0000.csv
+2025-07-02 13:40:47,002 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250407.csv
+2025-07-02 13:40:47,003 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250311_F_0000.csv.zip
+2025-07-02 13:40:47,005 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250421_F_0000.csv.zip
+2025-07-02 13:40:47,052 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250304_F_0000.csv
+2025-07-02 13:40:47,217 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250304.csv
+2025-07-02 13:40:47,219 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250423_F_0000.csv.zip
+2025-07-02 13:40:47,303 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250319_F_0000.csv
+2025-07-02 13:40:47,491 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250319.csv
+2025-07-02 13:40:47,546 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250701_F_0000.csv
+2025-07-02 13:40:47,707 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250701.csv
+2025-07-02 13:40:47,741 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250421_F_0000.csv
+2025-07-02 13:40:47,875 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250421.csv
+2025-07-02 13:40:47,934 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250311_F_0000.csv
+2025-07-02 13:40:48,140 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250311.csv
+2025-07-02 13:40:48,142 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250225_F_0000.csv.zip
+2025-07-02 13:40:48,144 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250605_F_0000.csv.zip
+2025-07-02 13:40:48,145 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250226_F_0000.csv.zip
+2025-07-02 13:40:48,147 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250310_F_0000.csv.zip
+2025-07-02 13:40:48,220 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250423_F_0000.csv
+2025-07-02 13:40:48,386 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250423.csv
+2025-07-02 13:40:48,388 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250306_F_0000.csv.zip
+2025-07-02 13:40:48,391 [WARNING] Failed 20250226: Status 404
+2025-07-02 13:40:48,393 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250416_F_0000.csv.zip
+2025-07-02 13:40:48,443 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250225_F_0000.csv
+2025-07-02 13:40:48,584 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250225.csv
+2025-07-02 13:40:48,712 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250605_F_0000.csv
+2025-07-02 13:40:49,159 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250605.csv
+2025-07-02 13:40:49,222 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250310_F_0000.csv
+2025-07-02 13:40:49,371 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250310.csv
+2025-07-02 13:40:49,373 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250312_F_0000.csv.zip
+2025-07-02 13:40:49,374 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250718_F_0000.csv.zip
+2025-07-02 13:40:49,376 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250616_F_0000.csv.zip
+2025-07-02 13:40:49,436 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250306_F_0000.csv
+2025-07-02 13:40:49,575 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250306.csv
+2025-07-02 13:40:49,621 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250416_F_0000.csv
+2025-07-02 13:40:49,753 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250416.csv
+2025-07-02 13:40:49,755 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250729_F_0000.csv.zip
+2025-07-02 13:40:49,757 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250723_F_0000.csv.zip
+2025-07-02 13:40:49,760 [WARNING] Failed 20250718: Status 404
+2025-07-02 13:40:49,762 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250613_F_0000.csv.zip
+2025-07-02 13:40:49,806 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250312_F_0000.csv
+2025-07-02 13:40:49,921 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250312.csv
+2025-07-02 13:40:49,963 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250616_F_0000.csv
+2025-07-02 13:40:50,109 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250616.csv
+2025-07-02 13:40:50,109 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250314_F_0000.csv.zip
+2025-07-02 13:40:50,110 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250107_F_0000.csv.zip
+2025-07-02 13:40:50,113 [WARNING] Failed 20250723: Status 404
+2025-07-02 13:40:50,114 [WARNING] Failed 20250729: Status 404
+2025-07-02 13:40:50,117 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250331_F_0000.csv.zip
+2025-07-02 13:40:50,118 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250129_F_0000.csv.zip
+2025-07-02 13:40:50,148 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250613_F_0000.csv
+2025-07-02 13:40:50,276 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250613.csv
+2025-07-02 13:40:50,277 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250619_F_0000.csv.zip
+2025-07-02 13:40:50,283 [WARNING] Failed 20250314: Status 404
+2025-07-02 13:40:50,285 [WARNING] Failed 20250331: Status 404
+2025-07-02 13:40:50,286 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250519_F_0000.csv.zip
+2025-07-02 13:40:50,287 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250110_F_0000.csv.zip
+2025-07-02 13:40:50,341 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250107_F_0000.csv
+2025-07-02 13:40:50,445 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250107.csv
+2025-07-02 13:40:50,446 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250415_F_0000.csv.zip
+2025-07-02 13:40:50,480 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250129_F_0000.csv
+2025-07-02 13:40:50,573 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250129.csv
+2025-07-02 13:40:50,575 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250318_F_0000.csv.zip
+2025-07-02 13:40:50,616 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250519_F_0000.csv
+2025-07-02 13:40:50,708 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250519.csv
+2025-07-02 13:40:50,742 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250110_F_0000.csv
+2025-07-02 13:40:50,814 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250110.csv
+2025-07-02 13:40:50,846 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250619_F_0000.csv
+2025-07-02 13:40:50,926 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250619.csv
+2025-07-02 13:40:50,927 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250326_F_0000.csv.zip
+2025-07-02 13:40:50,928 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250625_F_0000.csv.zip
+2025-07-02 13:40:50,929 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250106_F_0000.csv.zip
+2025-07-02 13:40:50,962 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250415_F_0000.csv
+2025-07-02 13:40:51,045 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250415.csv
+2025-07-02 13:40:51,047 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250725_F_0000.csv.zip
+2025-07-02 13:40:51,083 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250318_F_0000.csv
+2025-07-02 13:40:51,205 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250318.csv
+2025-07-02 13:40:51,208 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250502_F_0000.csv.zip
+2025-07-02 13:40:51,257 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250625_F_0000.csv
+2025-07-02 13:40:51,388 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250625.csv
+2025-07-02 13:40:51,430 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250106_F_0000.csv
+2025-07-02 13:40:51,553 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250106.csv
+2025-07-02 13:40:51,555 [WARNING] Failed 20250725: Status 404
+2025-07-02 13:40:51,556 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250513_F_0000.csv.zip
+2025-07-02 13:40:51,558 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250324_F_0000.csv.zip
+2025-07-02 13:40:51,559 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250114_F_0000.csv.zip
+2025-07-02 13:40:51,610 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250326_F_0000.csv
+2025-07-02 13:40:51,735 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250326.csv
+2025-07-02 13:40:51,737 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250630_F_0000.csv.zip
+2025-07-02 13:40:51,780 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250502_F_0000.csv
+2025-07-02 13:40:51,903 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250502.csv
+2025-07-02 13:40:51,905 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250526_F_0000.csv.zip
+2025-07-02 13:40:51,957 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250114_F_0000.csv
+2025-07-02 13:40:52,072 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250114.csv
+2025-07-02 13:40:52,109 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250513_F_0000.csv
+2025-07-02 13:40:52,211 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250513.csv
+2025-07-02 13:40:52,244 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250324_F_0000.csv
+2025-07-02 13:40:52,337 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250324.csv
+2025-07-02 13:40:52,338 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250623_F_0000.csv.zip
+2025-07-02 13:40:52,339 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250603_F_0000.csv.zip
+2025-07-02 13:40:52,341 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250219_F_0000.csv.zip
+2025-07-02 13:40:52,378 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250630_F_0000.csv
+2025-07-02 13:40:52,485 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250630.csv
+2025-07-02 13:40:52,486 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250206_F_0000.csv.zip
+2025-07-02 13:40:52,546 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250526_F_0000.csv
+2025-07-02 13:40:52,666 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250526.csv
+2025-07-02 13:40:52,669 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250505_F_0000.csv.zip
+2025-07-02 13:40:52,712 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250623_F_0000.csv
+2025-07-02 13:40:52,823 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250623.csv
+2025-07-02 13:40:52,869 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250603_F_0000.csv
+2025-07-02 13:40:52,979 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250603.csv
+2025-07-02 13:40:52,980 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250715_F_0000.csv.zip
+2025-07-02 13:40:52,984 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250609_F_0000.csv.zip
+2025-07-02 13:40:53,035 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250219_F_0000.csv
+2025-07-02 13:40:53,158 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250219.csv
+2025-07-02 13:40:53,160 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250611_F_0000.csv.zip
+2025-07-02 13:40:53,205 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250206_F_0000.csv
+2025-07-02 13:40:53,321 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250206.csv
+2025-07-02 13:40:53,323 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250401_F_0000.csv.zip
+2025-07-02 13:40:53,326 [WARNING] Failed 20250715: Status 404
+2025-07-02 13:40:53,328 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250724_F_0000.csv.zip
+2025-07-02 13:40:53,365 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250505_F_0000.csv
+2025-07-02 13:40:53,485 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250505.csv
+2025-07-02 13:40:53,487 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250606_F_0000.csv.zip
+2025-07-02 13:40:53,522 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250609_F_0000.csv
+2025-07-02 13:40:53,613 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250609.csv
+2025-07-02 13:40:53,642 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250611_F_0000.csv
+2025-07-02 13:40:53,729 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250611.csv
+2025-07-02 13:40:53,731 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250428_F_0000.csv.zip
+2025-07-02 13:40:53,734 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250404_F_0000.csv.zip
+2025-07-02 13:40:53,736 [WARNING] Failed 20250724: Status 404
+2025-07-02 13:40:53,737 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250213_F_0000.csv.zip
+2025-07-02 13:40:53,772 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250401_F_0000.csv
+2025-07-02 13:40:53,861 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250401.csv
+2025-07-02 13:40:53,862 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250221_F_0000.csv.zip
+2025-07-02 13:40:53,902 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250606_F_0000.csv
+2025-07-02 13:40:54,013 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250606.csv
+2025-07-02 13:40:54,018 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250523_F_0000.csv.zip
+2025-07-02 13:40:54,071 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250213_F_0000.csv
+2025-07-02 13:40:54,185 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250213.csv
+2025-07-02 13:40:54,222 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250404_F_0000.csv
+2025-07-02 13:40:54,323 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250404.csv
+2025-07-02 13:40:54,359 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250428_F_0000.csv
+2025-07-02 13:40:54,484 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250428.csv
+2025-07-02 13:40:54,521 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250221_F_0000.csv
+2025-07-02 13:40:54,648 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250221.csv
+2025-07-02 13:40:54,651 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250708_F_0000.csv.zip
+2025-07-02 13:40:54,652 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250220_F_0000.csv.zip
+2025-07-02 13:40:54,653 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250211_F_0000.csv.zip
+2025-07-02 13:40:54,655 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250722_F_0000.csv.zip
+2025-07-02 13:40:54,705 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250523_F_0000.csv
+2025-07-02 13:40:54,860 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250523.csv
+2025-07-02 13:40:54,861 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250108_F_0000.csv.zip
+2025-07-02 13:40:54,871 [WARNING] Failed 20250708: Status 404
+2025-07-02 13:40:54,872 [WARNING] Failed 20250722: Status 404
+2025-07-02 13:40:54,873 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250702_F_0000.csv.zip
+2025-07-02 13:40:54,945 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250211_F_0000.csv
+2025-07-02 13:40:55,046 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250211.csv
+2025-07-02 13:40:55,092 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250220_F_0000.csv
+2025-07-02 13:40:55,236 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250220.csv
+2025-07-02 13:40:55,239 [WARNING] Failed 20250702: Status 404
+2025-07-02 13:40:55,279 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250108_F_0000.csv
+2025-07-02 13:40:55,576 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250108.csv
+2025-07-02 13:40:55,578 [INFO] Downloaded 123 daily BhavCopy files for year 2025
+2025-07-02 13:42:23,278 [INFO] Starting download for year 2025
+2025-07-02 13:42:26,362 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250707_F_0000.csv.zip
+2025-07-02 13:42:26,397 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250102_F_0000.csv.zip
+2025-07-02 13:42:26,817 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250102_F_0000.csv
+2025-07-02 13:42:26,885 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250102.csv
+2025-07-02 13:42:26,886 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250429_F_0000.csv.zip
+2025-07-02 13:42:26,887 [WARNING] Failed 20250707: Status 404
+2025-07-02 13:42:26,887 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250331_F_0000.csv.zip
+2025-07-02 13:42:27,013 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250429_F_0000.csv
+2025-07-02 13:42:27,065 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250429.csv
+2025-07-02 13:42:27,065 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250527_F_0000.csv.zip
+2025-07-02 13:42:27,067 [WARNING] Failed 20250331: Status 404
+2025-07-02 13:42:27,067 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250211_F_0000.csv.zip
+2025-07-02 13:42:27,188 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250527_F_0000.csv
+2025-07-02 13:42:27,239 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250527.csv
+2025-07-02 13:42:27,240 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250106_F_0000.csv.zip
+2025-07-02 13:42:27,350 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250211_F_0000.csv
+2025-07-02 13:42:27,399 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250211.csv
+2025-07-02 13:42:27,400 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250218_F_0000.csv.zip
+2025-07-02 13:42:27,419 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250106_F_0000.csv
+2025-07-02 13:42:27,473 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250106.csv
+2025-07-02 13:42:27,474 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250528_F_0000.csv.zip
+2025-07-02 13:42:27,567 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250218_F_0000.csv
+2025-07-02 13:42:27,614 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250218.csv
+2025-07-02 13:42:27,615 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250127_F_0000.csv.zip
+2025-07-02 13:42:27,637 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250528_F_0000.csv
+2025-07-02 13:42:27,692 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250528.csv
+2025-07-02 13:42:27,692 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250602_F_0000.csv.zip
+2025-07-02 13:42:27,820 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250602_F_0000.csv
+2025-07-02 13:42:27,877 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250602.csv
+2025-07-02 13:42:27,878 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250519_F_0000.csv.zip
+2025-07-02 13:42:27,900 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250127_F_0000.csv
+2025-07-02 13:42:27,962 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250127.csv
+2025-07-02 13:42:27,965 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250130_F_0000.csv.zip
+2025-07-02 13:42:27,990 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250519_F_0000.csv
+2025-07-02 13:42:28,050 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250519.csv
+2025-07-02 13:42:28,051 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250620_F_0000.csv.zip
+2025-07-02 13:42:28,099 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250130_F_0000.csv
+2025-07-02 13:42:28,161 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250130.csv
+2025-07-02 13:42:28,161 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250729_F_0000.csv.zip
+2025-07-02 13:42:28,184 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250620_F_0000.csv
+2025-07-02 13:42:28,238 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250620.csv
+2025-07-02 13:42:28,240 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250124_F_0000.csv.zip
+2025-07-02 13:42:28,336 [WARNING] Failed 20250729: Status 404
+2025-07-02 13:42:28,338 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250408_F_0000.csv.zip
+2025-07-02 13:42:28,375 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250124_F_0000.csv
+2025-07-02 13:42:28,424 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250124.csv
+2025-07-02 13:42:28,424 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250114_F_0000.csv.zip
+2025-07-02 13:42:28,538 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250114_F_0000.csv
+2025-07-02 13:42:28,590 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250114.csv
+2025-07-02 13:42:28,591 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250227_F_0000.csv.zip
+2025-07-02 13:42:28,719 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250227_F_0000.csv
+2025-07-02 13:42:28,784 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250227.csv
+2025-07-02 13:42:28,785 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250604_F_0000.csv.zip
+2025-07-02 13:42:28,811 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250408_F_0000.csv
+2025-07-02 13:42:28,888 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250408.csv
+2025-07-02 13:42:28,889 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250603_F_0000.csv.zip
+2025-07-02 13:42:28,931 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250604_F_0000.csv
+2025-07-02 13:42:29,006 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250604.csv
+2025-07-02 13:42:29,007 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250613_F_0000.csv.zip
+2025-07-02 13:42:29,036 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250603_F_0000.csv
+2025-07-02 13:42:29,111 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250603.csv
+2025-07-02 13:42:29,112 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250611_F_0000.csv.zip
+2025-07-02 13:42:29,136 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250613_F_0000.csv
+2025-07-02 13:42:29,203 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250613.csv
+2025-07-02 13:42:29,204 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250311_F_0000.csv.zip
+2025-07-02 13:42:29,226 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250611_F_0000.csv
+2025-07-02 13:42:29,282 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250611.csv
+2025-07-02 13:42:29,284 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250606_F_0000.csv.zip
+2025-07-02 13:42:29,306 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250311_F_0000.csv
+2025-07-02 13:42:29,360 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250311.csv
+2025-07-02 13:42:29,361 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250415_F_0000.csv.zip
+2025-07-02 13:42:29,424 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250606_F_0000.csv
+2025-07-02 13:42:29,490 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250606.csv
+2025-07-02 13:42:29,492 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250702_F_0000.csv.zip
+2025-07-02 13:42:29,572 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250415_F_0000.csv
+2025-07-02 13:42:29,624 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250415.csv
+2025-07-02 13:42:29,624 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250724_F_0000.csv.zip
+2025-07-02 13:42:29,625 [WARNING] Failed 20250702: Status 404
+2025-07-02 13:42:29,626 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250203_F_0000.csv.zip
+2025-07-02 13:42:29,744 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250203_F_0000.csv
+2025-07-02 13:42:29,800 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250203.csv
+2025-07-02 13:42:29,801 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250411_F_0000.csv.zip
+2025-07-02 13:42:29,802 [WARNING] Failed 20250724: Status 404
+2025-07-02 13:42:29,803 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250120_F_0000.csv.zip
+2025-07-02 13:42:29,925 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250411_F_0000.csv
+2025-07-02 13:42:29,975 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250411.csv
+2025-07-02 13:42:29,976 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250725_F_0000.csv.zip
+2025-07-02 13:42:29,994 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250120_F_0000.csv
+2025-07-02 13:42:30,047 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250120.csv
+2025-07-02 13:42:30,049 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250122_F_0000.csv.zip
+2025-07-02 13:42:30,120 [WARNING] Failed 20250725: Status 404
+2025-07-02 13:42:30,121 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250711_F_0000.csv.zip
+2025-07-02 13:42:30,197 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250122_F_0000.csv
+2025-07-02 13:42:30,243 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250122.csv
+2025-07-02 13:42:30,244 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250103_F_0000.csv.zip
+2025-07-02 13:42:30,245 [WARNING] Failed 20250711: Status 404
+2025-07-02 13:42:30,245 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250507_F_0000.csv.zip
+2025-07-02 13:42:30,366 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250507_F_0000.csv
+2025-07-02 13:42:30,423 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250507.csv
+2025-07-02 13:42:30,423 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250703_F_0000.csv.zip
+2025-07-02 13:42:30,443 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250103_F_0000.csv
+2025-07-02 13:42:30,490 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250103.csv
+2025-07-02 13:42:30,491 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250512_F_0000.csv.zip
+2025-07-02 13:42:30,547 [WARNING] Failed 20250703: Status 404
+2025-07-02 13:42:30,548 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250204_F_0000.csv.zip
+2025-07-02 13:42:30,600 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250512_F_0000.csv
+2025-07-02 13:42:30,653 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250512.csv
+2025-07-02 13:42:30,654 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250407_F_0000.csv.zip
+2025-07-02 13:42:30,673 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250204_F_0000.csv
+2025-07-02 13:42:30,728 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250204.csv
+2025-07-02 13:42:30,729 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250730_F_0000.csv.zip
+2025-07-02 13:42:30,760 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250407_F_0000.csv
+2025-07-02 13:42:30,817 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250407.csv
+2025-07-02 13:42:30,818 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250416_F_0000.csv.zip
+2025-07-02 13:42:30,852 [WARNING] Failed 20250730: Status 404
+2025-07-02 13:42:30,853 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250609_F_0000.csv.zip
+2025-07-02 13:42:30,927 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250416_F_0000.csv
+2025-07-02 13:42:30,975 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250416.csv
+2025-07-02 13:42:30,975 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250226_F_0000.csv.zip
+2025-07-02 13:42:31,087 [WARNING] Failed 20250226: Status 404
+2025-07-02 13:42:31,089 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250721_F_0000.csv.zip
+2025-07-02 13:42:31,314 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250609_F_0000.csv
+2025-07-02 13:42:31,371 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250609.csv
+2025-07-02 13:42:31,371 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250717_F_0000.csv.zip
+2025-07-02 13:42:31,373 [WARNING] Failed 20250721: Status 404
+2025-07-02 13:42:31,373 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250425_F_0000.csv.zip
+2025-07-02 13:42:31,557 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250425_F_0000.csv
+2025-07-02 13:42:31,619 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250425.csv
+2025-07-02 13:42:31,620 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250410_F_0000.csv.zip
+2025-07-02 13:42:31,621 [WARNING] Failed 20250717: Status 404
+2025-07-02 13:42:31,621 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250113_F_0000.csv.zip
+2025-07-02 13:42:31,732 [WARNING] Failed 20250410: Status 404
+2025-07-02 13:42:31,734 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250310_F_0000.csv.zip
+2025-07-02 13:42:31,774 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250113_F_0000.csv
+2025-07-02 13:42:31,831 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250113.csv
+2025-07-02 13:42:31,831 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250423_F_0000.csv.zip
+2025-07-02 13:42:31,953 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250423_F_0000.csv
+2025-07-02 13:42:32,005 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250423.csv
+2025-07-02 13:42:32,005 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250501_F_0000.csv.zip
+2025-07-02 13:42:32,184 [WARNING] Failed 20250501: Status 404
+2025-07-02 13:42:32,185 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250207_F_0000.csv.zip
+2025-07-02 13:42:32,240 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250310_F_0000.csv
+2025-07-02 13:42:32,298 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250310.csv
+2025-07-02 13:42:32,299 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250210_F_0000.csv.zip
+2025-07-02 13:42:32,324 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250207_F_0000.csv
+2025-07-02 13:42:32,379 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250207.csv
+2025-07-02 13:42:32,383 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250718_F_0000.csv.zip
+2025-07-02 13:42:32,429 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250210_F_0000.csv
+2025-07-02 13:42:32,476 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250210.csv
+2025-07-02 13:42:32,477 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250731_F_0000.csv.zip
+2025-07-02 13:42:32,516 [WARNING] Failed 20250718: Status 404
+2025-07-02 13:42:32,517 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250520_F_0000.csv.zip
+2025-07-02 13:42:32,610 [WARNING] Failed 20250731: Status 404
+2025-07-02 13:42:32,611 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250530_F_0000.csv.zip
+2025-07-02 13:42:32,735 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250530_F_0000.csv
+2025-07-02 13:42:32,784 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250530.csv
+2025-07-02 13:42:32,785 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250626_F_0000.csv.zip
+2025-07-02 13:42:32,839 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250520_F_0000.csv
+2025-07-02 13:42:32,897 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250520.csv
+2025-07-02 13:42:32,898 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250610_F_0000.csv.zip
+2025-07-02 13:42:32,917 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250626_F_0000.csv
+2025-07-02 13:42:32,977 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250626.csv
+2025-07-02 13:42:32,978 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250414_F_0000.csv.zip
+2025-07-02 13:42:33,022 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250610_F_0000.csv
+2025-07-02 13:42:33,076 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250610.csv
+2025-07-02 13:42:33,077 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250612_F_0000.csv.zip
+2025-07-02 13:42:33,099 [WARNING] Failed 20250414: Status 404
+2025-07-02 13:42:33,101 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250401_F_0000.csv.zip
+2025-07-02 13:42:33,200 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250612_F_0000.csv
+2025-07-02 13:42:33,247 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250612.csv
+2025-07-02 13:42:33,248 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250305_F_0000.csv.zip
+2025-07-02 13:42:33,389 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250305_F_0000.csv
+2025-07-02 13:42:33,435 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250305.csv
+2025-07-02 13:42:33,436 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250616_F_0000.csv.zip
+2025-07-02 13:42:33,556 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250616_F_0000.csv
+2025-07-02 13:42:33,662 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250616.csv
+2025-07-02 13:42:33,663 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250109_F_0000.csv.zip
+2025-07-02 13:42:33,688 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250401_F_0000.csv
+2025-07-02 13:42:33,772 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250401.csv
+2025-07-02 13:42:33,772 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250505_F_0000.csv.zip
+2025-07-02 13:42:33,795 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250109_F_0000.csv
+2025-07-02 13:42:33,876 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250109.csv
+2025-07-02 13:42:33,877 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250213_F_0000.csv.zip
+2025-07-02 13:42:33,906 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250505_F_0000.csv
+2025-07-02 13:42:33,982 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250505.csv
+2025-07-02 13:42:33,983 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250220_F_0000.csv.zip
+2025-07-02 13:42:34,008 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250213_F_0000.csv
+2025-07-02 13:42:34,061 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250213.csv
+2025-07-02 13:42:34,062 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250522_F_0000.csv.zip
+2025-07-02 13:42:34,086 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250220_F_0000.csv
+2025-07-02 13:42:34,136 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250220.csv
+2025-07-02 13:42:34,136 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250417_F_0000.csv.zip
+2025-07-02 13:42:34,195 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250522_F_0000.csv
+2025-07-02 13:42:34,240 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250522.csv
+2025-07-02 13:42:34,241 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250326_F_0000.csv.zip
+2025-07-02 13:42:34,304 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250417_F_0000.csv
+2025-07-02 13:42:34,355 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250417.csv
+2025-07-02 13:42:34,356 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250506_F_0000.csv.zip
+2025-07-02 13:42:34,375 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250326_F_0000.csv
+2025-07-02 13:42:34,440 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250326.csv
+2025-07-02 13:42:34,441 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250710_F_0000.csv.zip
+2025-07-02 13:42:34,477 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250506_F_0000.csv
+2025-07-02 13:42:34,544 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250506.csv
+2025-07-02 13:42:34,545 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250214_F_0000.csv.zip
+2025-07-02 13:42:34,563 [WARNING] Failed 20250710: Status 404
+2025-07-02 13:42:34,564 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250318_F_0000.csv.zip
+2025-07-02 13:42:34,711 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250318_F_0000.csv
+2025-07-02 13:42:34,790 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250318.csv
+2025-07-02 13:42:34,792 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250325_F_0000.csv.zip
+2025-07-02 13:42:34,824 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250214_F_0000.csv
+2025-07-02 13:42:34,909 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250214.csv
+2025-07-02 13:42:34,910 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250121_F_0000.csv.zip
+2025-07-02 13:42:34,964 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250325_F_0000.csv
+2025-07-02 13:42:35,055 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250325.csv
+2025-07-02 13:42:35,056 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250704_F_0000.csv.zip
+2025-07-02 13:42:35,095 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250121_F_0000.csv
+2025-07-02 13:42:35,189 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250121.csv
+2025-07-02 13:42:35,190 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250115_F_0000.csv.zip
+2025-07-02 13:42:35,192 [WARNING] Failed 20250704: Status 404
+2025-07-02 13:42:35,192 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250716_F_0000.csv.zip
+2025-07-02 13:42:35,329 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250115_F_0000.csv
+2025-07-02 13:42:35,402 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250115.csv
+2025-07-02 13:42:35,402 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250324_F_0000.csv.zip
+2025-07-02 13:42:35,403 [WARNING] Failed 20250716: Status 404
+2025-07-02 13:42:35,404 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250110_F_0000.csv.zip
+2025-07-02 13:42:35,562 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250324_F_0000.csv
+2025-07-02 13:42:35,649 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250324.csv
+2025-07-02 13:42:35,651 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250312_F_0000.csv.zip
+2025-07-02 13:42:35,686 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250110_F_0000.csv
+2025-07-02 13:42:35,806 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250110.csv
+2025-07-02 13:42:35,808 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250328_F_0000.csv.zip
+2025-07-02 13:42:35,875 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250312_F_0000.csv
+2025-07-02 13:42:36,007 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250312.csv
+2025-07-02 13:42:36,008 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250625_F_0000.csv.zip
+2025-07-02 13:42:36,062 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250328_F_0000.csv
+2025-07-02 13:42:36,204 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250328.csv
+2025-07-02 13:42:36,206 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250409_F_0000.csv.zip
+2025-07-02 13:42:36,275 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250625_F_0000.csv
+2025-07-02 13:42:36,410 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250625.csv
+2025-07-02 13:42:36,414 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250206_F_0000.csv.zip
+2025-07-02 13:42:36,459 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250409_F_0000.csv
+2025-07-02 13:42:36,604 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250409.csv
+2025-07-02 13:42:36,605 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250523_F_0000.csv.zip
+2025-07-02 13:42:36,664 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250206_F_0000.csv
+2025-07-02 13:42:36,772 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250206.csv
+2025-07-02 13:42:36,773 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250314_F_0000.csv.zip
+2025-07-02 13:42:36,812 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250523_F_0000.csv
+2025-07-02 13:42:36,919 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250523.csv
+2025-07-02 13:42:36,920 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250605_F_0000.csv.zip
+2025-07-02 13:42:36,922 [WARNING] Failed 20250314: Status 404
+2025-07-02 13:42:36,922 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250617_F_0000.csv.zip
+2025-07-02 13:42:37,041 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250605_F_0000.csv
+2025-07-02 13:42:37,158 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250605.csv
+2025-07-02 13:42:37,159 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250618_F_0000.csv.zip
+2025-07-02 13:42:37,218 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250617_F_0000.csv
+2025-07-02 13:42:37,346 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250617.csv
+2025-07-02 13:42:37,347 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250728_F_0000.csv.zip
+2025-07-02 13:42:37,393 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250618_F_0000.csv
+2025-07-02 13:42:37,526 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250618.csv
+2025-07-02 13:42:37,527 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250212_F_0000.csv.zip
+2025-07-02 13:42:37,532 [WARNING] Failed 20250728: Status 404
+2025-07-02 13:42:37,534 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250219_F_0000.csv.zip
+2025-07-02 13:42:37,711 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250212_F_0000.csv
+2025-07-02 13:42:37,820 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250212.csv
+2025-07-02 13:42:37,822 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250526_F_0000.csv.zip
+2025-07-02 13:42:37,864 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250219_F_0000.csv
+2025-07-02 13:42:37,969 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250219.csv
+2025-07-02 13:42:37,970 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250627_F_0000.csv.zip
+2025-07-02 13:42:38,016 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250526_F_0000.csv
+2025-07-02 13:42:38,111 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250526.csv
+2025-07-02 13:42:38,113 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250422_F_0000.csv.zip
+2025-07-02 13:42:38,157 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250627_F_0000.csv
+2025-07-02 13:42:38,262 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250627.csv
+2025-07-02 13:42:38,263 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250327_F_0000.csv.zip
+2025-07-02 13:42:38,303 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250422_F_0000.csv
+2025-07-02 13:42:38,389 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250422.csv
+2025-07-02 13:42:38,390 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250430_F_0000.csv.zip
+2025-07-02 13:42:38,420 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250327_F_0000.csv
+2025-07-02 13:42:38,506 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250327.csv
+2025-07-02 13:42:38,506 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250402_F_0000.csv.zip
+2025-07-02 13:42:38,539 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250430_F_0000.csv
+2025-07-02 13:42:38,623 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250430.csv
+2025-07-02 13:42:38,623 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250101_F_0000.csv.zip
+2025-07-02 13:42:38,655 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250402_F_0000.csv
+2025-07-02 13:42:38,742 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250402.csv
+2025-07-02 13:42:38,743 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250508_F_0000.csv.zip
+2025-07-02 13:42:38,780 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250101_F_0000.csv
+2025-07-02 13:42:38,882 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250101.csv
+2025-07-02 13:42:38,883 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250307_F_0000.csv.zip
+2025-07-02 13:42:38,919 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250508_F_0000.csv
+2025-07-02 13:42:39,025 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250508.csv
+2025-07-02 13:42:39,026 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250128_F_0000.csv.zip
+2025-07-02 13:42:39,072 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250307_F_0000.csv
+2025-07-02 13:42:39,177 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250307.csv
+2025-07-02 13:42:39,178 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250630_F_0000.csv.zip
+2025-07-02 13:42:39,228 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250128_F_0000.csv
+2025-07-02 13:42:39,325 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250128.csv
+2025-07-02 13:42:39,326 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250421_F_0000.csv.zip
+2025-07-02 13:42:39,370 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250630_F_0000.csv
+2025-07-02 13:42:39,472 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250630.csv
+2025-07-02 13:42:39,473 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250224_F_0000.csv.zip
+2025-07-02 13:42:39,516 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250421_F_0000.csv
+2025-07-02 13:42:39,630 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250421.csv
+2025-07-02 13:42:39,631 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250529_F_0000.csv.zip
+2025-07-02 13:42:39,675 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250224_F_0000.csv
+2025-07-02 13:42:39,777 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250224.csv
+2025-07-02 13:42:39,778 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250228_F_0000.csv.zip
+2025-07-02 13:42:39,820 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250529_F_0000.csv
+2025-07-02 13:42:39,970 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250529.csv
+2025-07-02 13:42:39,971 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250722_F_0000.csv.zip
+2025-07-02 13:42:40,034 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250228_F_0000.csv
+2025-07-02 13:42:40,145 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250228.csv
+2025-07-02 13:42:40,146 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250428_F_0000.csv.zip
+2025-07-02 13:42:40,148 [WARNING] Failed 20250722: Status 404
+2025-07-02 13:42:40,149 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250723_F_0000.csv.zip
+2025-07-02 13:42:40,275 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250428_F_0000.csv
+2025-07-02 13:42:40,387 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250428.csv
+2025-07-02 13:42:40,389 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250221_F_0000.csv.zip
+2025-07-02 13:42:40,391 [WARNING] Failed 20250723: Status 404
+2025-07-02 13:42:40,392 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250131_F_0000.csv.zip
+2025-07-02 13:42:40,537 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250221_F_0000.csv
+2025-07-02 13:42:40,682 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250221.csv
+2025-07-02 13:42:40,683 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250513_F_0000.csv.zip
+2025-07-02 13:42:40,724 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250131_F_0000.csv
+2025-07-02 13:42:40,820 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250131.csv
+2025-07-02 13:42:40,821 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250320_F_0000.csv.zip
+2025-07-02 13:42:40,854 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250513_F_0000.csv
+2025-07-02 13:42:40,947 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250513.csv
+2025-07-02 13:42:40,948 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250715_F_0000.csv.zip
+2025-07-02 13:42:40,983 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250320_F_0000.csv
+2025-07-02 13:42:41,080 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250320.csv
+2025-07-02 13:42:41,081 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250107_F_0000.csv.zip
+2025-07-02 13:42:41,082 [WARNING] Failed 20250715: Status 404
+2025-07-02 13:42:41,083 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250304_F_0000.csv.zip
+2025-07-02 13:42:41,234 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250107_F_0000.csv
+2025-07-02 13:42:41,327 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250107.csv
+2025-07-02 13:42:41,328 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250217_F_0000.csv.zip
+2025-07-02 13:42:41,360 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250304_F_0000.csv
+2025-07-02 13:42:41,451 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250304.csv
+2025-07-02 13:42:41,451 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250521_F_0000.csv.zip
+2025-07-02 13:42:41,556 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250217_F_0000.csv
+2025-07-02 13:42:41,860 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250217.csv
+2025-07-02 13:42:41,865 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250303_F_0000.csv.zip
+2025-07-02 13:42:41,911 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250521_F_0000.csv
+2025-07-02 13:42:42,015 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250521.csv
+2025-07-02 13:42:42,017 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250424_F_0000.csv.zip
+2025-07-02 13:42:42,059 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250303_F_0000.csv
+2025-07-02 13:42:42,186 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250303.csv
+2025-07-02 13:42:42,187 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250516_F_0000.csv.zip
+2025-07-02 13:42:42,227 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250424_F_0000.csv
+2025-07-02 13:42:42,344 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250424.csv
+2025-07-02 13:42:42,345 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250515_F_0000.csv.zip
+2025-07-02 13:42:42,389 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250516_F_0000.csv
+2025-07-02 13:42:42,503 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250516.csv
+2025-07-02 13:42:42,504 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250116_F_0000.csv.zip
+2025-07-02 13:42:42,552 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250515_F_0000.csv
+2025-07-02 13:42:42,671 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250515.csv
+2025-07-02 13:42:42,672 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250306_F_0000.csv.zip
+2025-07-02 13:42:42,718 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250116_F_0000.csv
+2025-07-02 13:42:42,839 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250116.csv
+2025-07-02 13:42:42,840 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250714_F_0000.csv.zip
+2025-07-02 13:42:42,891 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250306_F_0000.csv
+2025-07-02 13:42:43,012 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250306.csv
+2025-07-02 13:42:43,014 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250317_F_0000.csv.zip
+2025-07-02 13:42:43,016 [WARNING] Failed 20250714: Status 404
+2025-07-02 13:42:43,017 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250225_F_0000.csv.zip
+2025-07-02 13:42:43,173 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250317_F_0000.csv
+2025-07-02 13:42:43,284 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250317.csv
+2025-07-02 13:42:43,286 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250403_F_0000.csv.zip
+2025-07-02 13:42:43,332 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250225_F_0000.csv
+2025-07-02 13:42:43,439 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250225.csv
+2025-07-02 13:42:43,440 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250701_F_0000.csv.zip
+2025-07-02 13:42:43,478 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250403_F_0000.csv
+2025-07-02 13:42:43,591 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250403.csv
+2025-07-02 13:42:43,593 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250108_F_0000.csv.zip
+2025-07-02 13:42:43,637 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250701_F_0000.csv
+2025-07-02 13:42:43,744 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250701.csv
+2025-07-02 13:42:43,745 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250709_F_0000.csv.zip
+2025-07-02 13:42:43,779 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250108_F_0000.csv
+2025-07-02 13:42:43,873 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250108.csv
+2025-07-02 13:42:43,874 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250418_F_0000.csv.zip
+2025-07-02 13:42:43,875 [WARNING] Failed 20250709: Status 404
+2025-07-02 13:42:43,876 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250129_F_0000.csv.zip
+2025-07-02 13:42:44,015 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250129_F_0000.csv
+2025-07-02 13:42:44,103 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250129.csv
+2025-07-02 13:42:44,104 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250313_F_0000.csv.zip
+2025-07-02 13:42:44,106 [WARNING] Failed 20250418: Status 404
+2025-07-02 13:42:44,107 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250514_F_0000.csv.zip
+2025-07-02 13:42:44,248 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250514_F_0000.csv
+2025-07-02 13:42:44,365 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250514.csv
+2025-07-02 13:42:44,366 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250623_F_0000.csv.zip
+2025-07-02 13:42:44,418 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250313_F_0000.csv
+2025-07-02 13:42:44,563 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250313.csv
+2025-07-02 13:42:44,564 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250404_F_0000.csv.zip
+2025-07-02 13:42:44,618 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250623_F_0000.csv
+2025-07-02 13:42:44,741 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250623.csv
+2025-07-02 13:42:44,743 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250509_F_0000.csv.zip
+2025-07-02 13:42:44,802 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250404_F_0000.csv
+2025-07-02 13:42:44,916 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250404.csv
+2025-07-02 13:42:44,917 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250708_F_0000.csv.zip
+2025-07-02 13:42:44,959 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250509_F_0000.csv
+2025-07-02 13:42:45,068 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250509.csv
+2025-07-02 13:42:45,069 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250117_F_0000.csv.zip
+2025-07-02 13:42:45,071 [WARNING] Failed 20250708: Status 404
+2025-07-02 13:42:45,072 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250321_F_0000.csv.zip
+2025-07-02 13:42:45,308 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250321_F_0000.csv
+2025-07-02 13:42:45,426 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250321.csv
+2025-07-02 13:42:45,428 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250502_F_0000.csv.zip
+2025-07-02 13:42:45,471 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250117_F_0000.csv
+2025-07-02 13:42:45,645 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250117.csv
+2025-07-02 13:42:45,647 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250619_F_0000.csv.zip
+2025-07-02 13:42:45,704 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250502_F_0000.csv
+2025-07-02 13:42:45,791 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250502.csv
+2025-07-02 13:42:45,792 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250205_F_0000.csv.zip
+2025-07-02 13:42:45,830 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250619_F_0000.csv
+2025-07-02 13:42:45,925 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250619.csv
+2025-07-02 13:42:45,926 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250624_F_0000.csv.zip
+2025-07-02 13:42:45,966 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250205_F_0000.csv
+2025-07-02 13:42:46,082 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250205.csv
+2025-07-02 13:42:46,084 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250123_F_0000.csv.zip
+2025-07-02 13:42:46,127 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250624_F_0000.csv
+2025-07-02 13:42:46,222 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250624.csv
+2025-07-02 13:42:46,223 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250319_F_0000.csv.zip
+2025-07-02 13:42:46,263 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250123_F_0000.csv
+2025-07-02 13:42:46,367 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250123.csv
+2025-07-02 13:42:46,405 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250319_F_0000.csv
+2025-07-02 13:42:46,493 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250319.csv
+2025-07-02 13:42:46,493 [INFO] Downloaded 123 daily BhavCopy files for year 2025
+2025-07-02 13:46:09,297 [INFO] Starting download for year 2025
+2025-07-02 13:46:12,331 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250121_F_0000.csv.zip
+2025-07-02 13:46:12,341 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250409_F_0000.csv.zip
+2025-07-02 13:46:12,696 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250409_F_0000.csv
+2025-07-02 13:46:12,747 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250409.csv
+2025-07-02 13:46:12,748 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250605_F_0000.csv.zip
+2025-07-02 13:46:12,765 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250121_F_0000.csv
+2025-07-02 13:46:12,824 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250121.csv
+2025-07-02 13:46:12,825 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250508_F_0000.csv.zip
+2025-07-02 13:46:12,865 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250605_F_0000.csv
+2025-07-02 13:46:12,918 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250605.csv
+2025-07-02 13:46:12,919 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250320_F_0000.csv.zip
+2025-07-02 13:46:12,937 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250508_F_0000.csv
+2025-07-02 13:46:12,991 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250508.csv
+2025-07-02 13:46:12,991 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250501_F_0000.csv.zip
+2025-07-02 13:46:13,042 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250320_F_0000.csv
+2025-07-02 13:46:13,090 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250320.csv
+2025-07-02 13:46:13,091 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250505_F_0000.csv.zip
+2025-07-02 13:46:13,092 [WARNING] Failed 20250501: Status 404
+2025-07-02 13:46:13,092 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250610_F_0000.csv.zip
+2025-07-02 13:46:13,301 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250610_F_0000.csv
+2025-07-02 13:46:13,352 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250610.csv
+2025-07-02 13:46:13,353 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250211_F_0000.csv.zip
+2025-07-02 13:46:13,374 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250505_F_0000.csv
+2025-07-02 13:46:13,431 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250505.csv
+2025-07-02 13:46:13,432 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250422_F_0000.csv.zip
+2025-07-02 13:46:13,476 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250211_F_0000.csv
+2025-07-02 13:46:13,528 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250211.csv
+2025-07-02 13:46:13,529 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250624_F_0000.csv.zip
+2025-07-02 13:46:13,565 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250422_F_0000.csv
+2025-07-02 13:46:13,618 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250422.csv
+2025-07-02 13:46:13,619 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250402_F_0000.csv.zip
+2025-07-02 13:46:13,643 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250624_F_0000.csv
+2025-07-02 13:46:13,702 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250624.csv
+2025-07-02 13:46:13,703 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250723_F_0000.csv.zip
+2025-07-02 13:46:13,737 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250402_F_0000.csv
+2025-07-02 13:46:13,804 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250402.csv
+2025-07-02 13:46:13,805 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250404_F_0000.csv.zip
+2025-07-02 13:46:13,806 [WARNING] Failed 20250723: Status 404
+2025-07-02 13:46:13,806 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250122_F_0000.csv.zip
+2025-07-02 13:46:13,934 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250404_F_0000.csv
+2025-07-02 13:46:14,032 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250404.csv
+2025-07-02 13:46:14,032 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250729_F_0000.csv.zip
+2025-07-02 13:46:14,053 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250122_F_0000.csv
+2025-07-02 13:46:14,113 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250122.csv
+2025-07-02 13:46:14,113 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250722_F_0000.csv.zip
+2025-07-02 13:46:14,166 [WARNING] Failed 20250729: Status 404
+2025-07-02 13:46:14,166 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250113_F_0000.csv.zip
+2025-07-02 13:46:14,221 [WARNING] Failed 20250722: Status 404
+2025-07-02 13:46:14,222 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250218_F_0000.csv.zip
+2025-07-02 13:46:14,309 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250113_F_0000.csv
+2025-07-02 13:46:14,371 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250113.csv
+2025-07-02 13:46:14,372 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250529_F_0000.csv.zip
+2025-07-02 13:46:14,391 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250218_F_0000.csv
+2025-07-02 13:46:14,451 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250218.csv
+2025-07-02 13:46:14,452 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250319_F_0000.csv.zip
+2025-07-02 13:46:14,494 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250529_F_0000.csv
+2025-07-02 13:46:14,551 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250529.csv
+2025-07-02 13:46:14,551 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250311_F_0000.csv.zip
+2025-07-02 13:46:14,581 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250319_F_0000.csv
+2025-07-02 13:46:14,652 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250319.csv
+2025-07-02 13:46:14,653 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250509_F_0000.csv.zip
+2025-07-02 13:46:14,694 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250311_F_0000.csv
+2025-07-02 13:46:14,751 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250311.csv
+2025-07-02 13:46:14,752 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250415_F_0000.csv.zip
+2025-07-02 13:46:14,770 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250509_F_0000.csv
+2025-07-02 13:46:14,820 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250509.csv
+2025-07-02 13:46:14,821 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250626_F_0000.csv.zip
+2025-07-02 13:46:14,866 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250415_F_0000.csv
+2025-07-02 13:46:14,935 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250415.csv
+2025-07-02 13:46:14,936 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250325_F_0000.csv.zip
+2025-07-02 13:46:14,955 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250626_F_0000.csv
+2025-07-02 13:46:15,006 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250626.csv
+2025-07-02 13:46:15,006 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250512_F_0000.csv.zip
+2025-07-02 13:46:15,136 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250325_F_0000.csv
+2025-07-02 13:46:15,195 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250325.csv
+2025-07-02 13:46:15,196 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250410_F_0000.csv.zip
+2025-07-02 13:46:15,213 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250512_F_0000.csv
+2025-07-02 13:46:15,269 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250512.csv
+2025-07-02 13:46:15,269 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250716_F_0000.csv.zip
+2025-07-02 13:46:15,302 [WARNING] Failed 20250410: Status 404
+2025-07-02 13:46:15,303 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250228_F_0000.csv.zip
+2025-07-02 13:46:15,412 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250228_F_0000.csv
+2025-07-02 13:46:15,458 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250228.csv
+2025-07-02 13:46:15,458 [WARNING] Failed 20250716: Status 404
+2025-07-02 13:46:15,459 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250227_F_0000.csv.zip
+2025-07-02 13:46:15,459 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250207_F_0000.csv.zip
+2025-07-02 13:46:15,576 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250207_F_0000.csv
+2025-07-02 13:46:15,618 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250207.csv
+2025-07-02 13:46:15,619 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250321_F_0000.csv.zip
+2025-07-02 13:46:15,638 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250227_F_0000.csv
+2025-07-02 13:46:15,692 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250227.csv
+2025-07-02 13:46:15,693 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250304_F_0000.csv.zip
+2025-07-02 13:46:15,712 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250321_F_0000.csv
+2025-07-02 13:46:15,769 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250321.csv
+2025-07-02 13:46:15,769 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250609_F_0000.csv.zip
+2025-07-02 13:46:15,790 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250304_F_0000.csv
+2025-07-02 13:46:15,846 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250304.csv
+2025-07-02 13:46:15,847 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250310_F_0000.csv.zip
+2025-07-02 13:46:15,870 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250609_F_0000.csv
+2025-07-02 13:46:15,925 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250609.csv
+2025-07-02 13:46:15,926 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250730_F_0000.csv.zip
+2025-07-02 13:46:15,952 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250310_F_0000.csv
+2025-07-02 13:46:16,005 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250310.csv
+2025-07-02 13:46:16,005 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250327_F_0000.csv.zip
+2025-07-02 13:46:16,036 [WARNING] Failed 20250730: Status 404
+2025-07-02 13:46:16,038 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250602_F_0000.csv.zip
+2025-07-02 13:46:16,103 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250327_F_0000.csv
+2025-07-02 13:46:16,151 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250327.csv
+2025-07-02 13:46:16,152 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250107_F_0000.csv.zip
+2025-07-02 13:46:16,276 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250107_F_0000.csv
+2025-07-02 13:46:16,322 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250107.csv
+2025-07-02 13:46:16,323 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250226_F_0000.csv.zip
+2025-07-02 13:46:16,435 [WARNING] Failed 20250226: Status 404
+2025-07-02 13:46:16,437 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250514_F_0000.csv.zip
+2025-07-02 13:46:16,561 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250602_F_0000.csv
+2025-07-02 13:46:16,612 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250602.csv
+2025-07-02 13:46:16,630 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250514_F_0000.csv
+2025-07-02 13:46:16,683 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250514.csv
+2025-07-02 13:46:16,683 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250317_F_0000.csv.zip
+2025-07-02 13:46:16,684 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250721_F_0000.csv.zip
+2025-07-02 13:46:16,801 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250317_F_0000.csv
+2025-07-02 13:46:16,861 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250317.csv
+2025-07-02 13:46:16,861 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250314_F_0000.csv.zip
+2025-07-02 13:46:16,862 [WARNING] Failed 20250721: Status 404
+2025-07-02 13:46:16,863 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250324_F_0000.csv.zip
+2025-07-02 13:46:17,015 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250324_F_0000.csv
+2025-07-02 13:46:17,070 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250324.csv
+2025-07-02 13:46:17,071 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250630_F_0000.csv.zip
+2025-07-02 13:46:17,072 [WARNING] Failed 20250314: Status 404
+2025-07-02 13:46:17,072 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250204_F_0000.csv.zip
+2025-07-02 13:46:17,265 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250204_F_0000.csv
+2025-07-02 13:46:17,322 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250204.csv
+2025-07-02 13:46:17,322 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250117_F_0000.csv.zip
+2025-07-02 13:46:17,344 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250630_F_0000.csv
+2025-07-02 13:46:17,415 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250630.csv
+2025-07-02 13:46:17,416 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250606_F_0000.csv.zip
+2025-07-02 13:46:17,439 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250117_F_0000.csv
+2025-07-02 13:46:17,501 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250117.csv
+2025-07-02 13:46:17,501 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250305_F_0000.csv.zip
+2025-07-02 13:46:17,519 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250606_F_0000.csv
+2025-07-02 13:46:17,574 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250606.csv
+2025-07-02 13:46:17,575 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250403_F_0000.csv.zip
+2025-07-02 13:46:17,612 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250305_F_0000.csv
+2025-07-02 13:46:17,663 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250305.csv
+2025-07-02 13:46:17,664 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250711_F_0000.csv.zip
+2025-07-02 13:46:17,697 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250403_F_0000.csv
+2025-07-02 13:46:17,751 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250403.csv
+2025-07-02 13:46:17,751 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250212_F_0000.csv.zip
+2025-07-02 13:46:17,762 [WARNING] Failed 20250711: Status 404
+2025-07-02 13:46:17,763 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250619_F_0000.csv.zip
+2025-07-02 13:46:17,874 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250619_F_0000.csv
+2025-07-02 13:46:17,933 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250619.csv
+2025-07-02 13:46:17,934 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250623_F_0000.csv.zip
+2025-07-02 13:46:17,963 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250212_F_0000.csv
+2025-07-02 13:46:18,013 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250212.csv
+2025-07-02 13:46:18,013 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250106_F_0000.csv.zip
+2025-07-02 13:46:18,042 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250623_F_0000.csv
+2025-07-02 13:46:18,098 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250623.csv
+2025-07-02 13:46:18,099 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250618_F_0000.csv.zip
+2025-07-02 13:46:18,133 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250106_F_0000.csv
+2025-07-02 13:46:18,185 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250106.csv
+2025-07-02 13:46:18,185 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250123_F_0000.csv.zip
+2025-07-02 13:46:18,215 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250618_F_0000.csv
+2025-07-02 13:46:18,268 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250618.csv
+2025-07-02 13:46:18,269 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250604_F_0000.csv.zip
+2025-07-02 13:46:18,291 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250123_F_0000.csv
+2025-07-02 13:46:18,347 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250123.csv
+2025-07-02 13:46:18,348 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250715_F_0000.csv.zip
+2025-07-02 13:46:18,373 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250604_F_0000.csv
+2025-07-02 13:46:18,424 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250604.csv
+2025-07-02 13:46:18,424 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250708_F_0000.csv.zip
+2025-07-02 13:46:18,446 [WARNING] Failed 20250715: Status 404
+2025-07-02 13:46:18,447 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250430_F_0000.csv.zip
+2025-07-02 13:46:18,521 [WARNING] Failed 20250708: Status 404
+2025-07-02 13:46:18,522 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250224_F_0000.csv.zip
+2025-07-02 13:46:18,741 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250430_F_0000.csv
+2025-07-02 13:46:18,790 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250430.csv
+2025-07-02 13:46:18,791 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250220_F_0000.csv.zip
+2025-07-02 13:46:18,808 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250224_F_0000.csv
+2025-07-02 13:46:18,860 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250224.csv
+2025-07-02 13:46:18,861 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250306_F_0000.csv.zip
+2025-07-02 13:46:18,899 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250220_F_0000.csv
+2025-07-02 13:46:18,949 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250220.csv
+2025-07-02 13:46:18,949 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250707_F_0000.csv.zip
+2025-07-02 13:46:18,972 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250306_F_0000.csv
+2025-07-02 13:46:19,024 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250306.csv
+2025-07-02 13:46:19,024 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250414_F_0000.csv.zip
+2025-07-02 13:46:19,099 [WARNING] Failed 20250707: Status 404
+2025-07-02 13:46:19,100 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250129_F_0000.csv.zip
+2025-07-02 13:46:19,112 [WARNING] Failed 20250414: Status 404
+2025-07-02 13:46:19,113 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250425_F_0000.csv.zip
+2025-07-02 13:46:19,196 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250129_F_0000.csv
+2025-07-02 13:46:19,243 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250129.csv
+2025-07-02 13:46:19,243 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250424_F_0000.csv.zip
+2025-07-02 13:46:19,363 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250424_F_0000.csv
+2025-07-02 13:46:19,414 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250424.csv
+2025-07-02 13:46:19,415 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250328_F_0000.csv.zip
+2025-07-02 13:46:19,466 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250425_F_0000.csv
+2025-07-02 13:46:19,516 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250425.csv
+2025-07-02 13:46:19,516 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250416_F_0000.csv.zip
+2025-07-02 13:46:19,535 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250328_F_0000.csv
+2025-07-02 13:46:19,588 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250328.csv
+2025-07-02 13:46:19,588 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250718_F_0000.csv.zip
+2025-07-02 13:46:19,649 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250416_F_0000.csv
+2025-07-02 13:46:19,698 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250416.csv
+2025-07-02 13:46:19,699 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250527_F_0000.csv.zip
+2025-07-02 13:46:19,708 [WARNING] Failed 20250718: Status 404
+2025-07-02 13:46:19,709 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250528_F_0000.csv.zip
+2025-07-02 13:46:19,820 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250527_F_0000.csv
+2025-07-02 13:46:19,870 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250527.csv
+2025-07-02 13:46:19,871 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250612_F_0000.csv.zip
+2025-07-02 13:46:19,978 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250612_F_0000.csv
+2025-07-02 13:46:20,040 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250612.csv
+2025-07-02 13:46:20,041 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250417_F_0000.csv.zip
+2025-07-02 13:46:20,100 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250528_F_0000.csv
+2025-07-02 13:46:20,155 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250528.csv
+2025-07-02 13:46:20,156 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250213_F_0000.csv.zip
+2025-07-02 13:46:20,178 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250417_F_0000.csv
+2025-07-02 13:46:20,241 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250417.csv
+2025-07-02 13:46:20,242 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250127_F_0000.csv.zip
+2025-07-02 13:46:20,279 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250213_F_0000.csv
+2025-07-02 13:46:20,338 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250213.csv
+2025-07-02 13:46:20,338 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250617_F_0000.csv.zip
+2025-07-02 13:46:20,358 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250127_F_0000.csv
+2025-07-02 13:46:20,423 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250127.csv
+2025-07-02 13:46:20,423 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250728_F_0000.csv.zip
+2025-07-02 13:46:20,448 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250617_F_0000.csv
+2025-07-02 13:46:20,512 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250617.csv
+2025-07-02 13:46:20,512 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250516_F_0000.csv.zip
+2025-07-02 13:46:20,527 [WARNING] Failed 20250728: Status 404
+2025-07-02 13:46:20,528 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250519_F_0000.csv.zip
+2025-07-02 13:46:20,639 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250516_F_0000.csv
+2025-07-02 13:46:20,686 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250516.csv
+2025-07-02 13:46:20,687 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250627_F_0000.csv.zip
+2025-07-02 13:46:20,707 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250519_F_0000.csv
+2025-07-02 13:46:20,759 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250519.csv
+2025-07-02 13:46:20,760 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250701_F_0000.csv.zip
+2025-07-02 13:46:20,791 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250627_F_0000.csv
+2025-07-02 13:46:20,851 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250627.csv
+2025-07-02 13:46:20,851 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250616_F_0000.csv.zip
+2025-07-02 13:46:20,871 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250701_F_0000.csv
+2025-07-02 13:46:20,923 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250701.csv
+2025-07-02 13:46:20,923 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250613_F_0000.csv.zip
+2025-07-02 13:46:20,942 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250616_F_0000.csv
+2025-07-02 13:46:20,991 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250616.csv
+2025-07-02 13:46:20,992 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250120_F_0000.csv.zip
+2025-07-02 13:46:21,023 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250613_F_0000.csv
+2025-07-02 13:46:21,093 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250613.csv
+2025-07-02 13:46:21,094 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250709_F_0000.csv.zip
+2025-07-02 13:46:21,133 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250120_F_0000.csv
+2025-07-02 13:46:21,190 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250120.csv
+2025-07-02 13:46:21,190 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250526_F_0000.csv.zip
+2025-07-02 13:46:21,314 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250526_F_0000.csv
+2025-07-02 13:46:21,419 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250526.csv
+2025-07-02 13:46:21,419 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250115_F_0000.csv.zip
+2025-07-02 13:46:21,454 [WARNING] Failed 20250709: Status 404
+2025-07-02 13:46:21,456 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250318_F_0000.csv.zip
+2025-07-02 13:46:21,518 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250115_F_0000.csv
+2025-07-02 13:46:21,567 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250115.csv
+2025-07-02 13:46:21,568 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250530_F_0000.csv.zip
+2025-07-02 13:46:21,587 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250318_F_0000.csv
+2025-07-02 13:46:21,638 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250318.csv
+2025-07-02 13:46:21,639 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250620_F_0000.csv.zip
+2025-07-02 13:46:21,661 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250530_F_0000.csv
+2025-07-02 13:46:21,716 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250530.csv
+2025-07-02 13:46:21,716 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250717_F_0000.csv.zip
+2025-07-02 13:46:21,748 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250620_F_0000.csv
+2025-07-02 13:46:21,798 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250620.csv
+2025-07-02 13:46:21,798 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250331_F_0000.csv.zip
+2025-07-02 13:46:21,913 [WARNING] Failed 20250717: Status 404
+2025-07-02 13:46:21,914 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250411_F_0000.csv.zip
+2025-07-02 13:46:22,035 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250411_F_0000.csv
+2025-07-02 13:46:22,083 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250411.csv
+2025-07-02 13:46:22,083 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250704_F_0000.csv.zip
+2025-07-02 13:46:22,084 [WARNING] Failed 20250331: Status 404
+2025-07-02 13:46:22,085 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250522_F_0000.csv.zip
+2025-07-02 13:46:22,203 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250522_F_0000.csv
+2025-07-02 13:46:22,249 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250522.csv
+2025-07-02 13:46:22,250 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250103_F_0000.csv.zip
+2025-07-02 13:46:22,251 [WARNING] Failed 20250704: Status 404
+2025-07-02 13:46:22,251 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250513_F_0000.csv.zip
+2025-07-02 13:46:22,370 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250103_F_0000.csv
+2025-07-02 13:46:22,421 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250103.csv
+2025-07-02 13:46:22,421 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250130_F_0000.csv.zip
+2025-07-02 13:46:22,438 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250513_F_0000.csv
+2025-07-02 13:46:22,490 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250513.csv
+2025-07-02 13:46:22,490 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250128_F_0000.csv.zip
+2025-07-02 13:46:22,542 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250130_F_0000.csv
+2025-07-02 13:46:22,594 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250130.csv
+2025-07-02 13:46:22,595 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250326_F_0000.csv.zip
+2025-07-02 13:46:22,617 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250128_F_0000.csv
+2025-07-02 13:46:22,669 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250128.csv
+2025-07-02 13:46:22,669 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250714_F_0000.csv.zip
+2025-07-02 13:46:22,706 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250326_F_0000.csv
+2025-07-02 13:46:22,755 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250326.csv
+2025-07-02 13:46:22,756 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250724_F_0000.csv.zip
+2025-07-02 13:46:22,781 [WARNING] Failed 20250714: Status 404
+2025-07-02 13:46:22,782 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250203_F_0000.csv.zip
+2025-07-02 13:46:22,867 [WARNING] Failed 20250724: Status 404
+2025-07-02 13:46:22,867 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250611_F_0000.csv.zip
+2025-07-02 13:46:22,904 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250203_F_0000.csv
+2025-07-02 13:46:22,963 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250203.csv
+2025-07-02 13:46:22,964 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250421_F_0000.csv.zip
+2025-07-02 13:46:23,073 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250421_F_0000.csv
+2025-07-02 13:46:23,122 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250421.csv
+2025-07-02 13:46:23,123 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250703_F_0000.csv.zip
+2025-07-02 13:46:23,231 [WARNING] Failed 20250703: Status 404
+2025-07-02 13:46:23,232 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250303_F_0000.csv.zip
+2025-07-02 13:46:23,315 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250611_F_0000.csv
+2025-07-02 13:46:23,362 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250611.csv
+2025-07-02 13:46:23,362 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250219_F_0000.csv.zip
+2025-07-02 13:46:23,482 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250219_F_0000.csv
+2025-07-02 13:46:23,540 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250219.csv
+2025-07-02 13:46:23,541 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250710_F_0000.csv.zip
+2025-07-02 13:46:23,586 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250303_F_0000.csv
+2025-07-02 13:46:23,652 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250303.csv
+2025-07-02 13:46:23,653 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250625_F_0000.csv.zip
+2025-07-02 13:46:23,654 [WARNING] Failed 20250710: Status 404
+2025-07-02 13:46:23,654 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250507_F_0000.csv.zip
+2025-07-02 13:46:23,812 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250507_F_0000.csv
+2025-07-02 13:46:23,863 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250507.csv
+2025-07-02 13:46:23,863 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250101_F_0000.csv.zip
+2025-07-02 13:46:23,885 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250625_F_0000.csv
+2025-07-02 13:46:23,935 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250625.csv
+2025-07-02 13:46:23,936 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250114_F_0000.csv.zip
+2025-07-02 13:46:23,968 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250101_F_0000.csv
+2025-07-02 13:46:24,018 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250101.csv
+2025-07-02 13:46:24,019 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250124_F_0000.csv.zip
+2025-07-02 13:46:24,052 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250114_F_0000.csv
+2025-07-02 13:46:24,099 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250114.csv
+2025-07-02 13:46:24,099 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250515_F_0000.csv.zip
+2025-07-02 13:46:24,121 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250124_F_0000.csv
+2025-07-02 13:46:24,173 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250124.csv
+2025-07-02 13:46:24,174 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250523_F_0000.csv.zip
+2025-07-02 13:46:24,225 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250515_F_0000.csv
+2025-07-02 13:46:24,286 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250515.csv
+2025-07-02 13:46:24,287 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250408_F_0000.csv.zip
+2025-07-02 13:46:24,311 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250523_F_0000.csv
+2025-07-02 13:46:24,372 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250523.csv
+2025-07-02 13:46:24,373 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250502_F_0000.csv.zip
+2025-07-02 13:46:24,422 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250408_F_0000.csv
+2025-07-02 13:46:24,491 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250408.csv
+2025-07-02 13:46:24,492 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250108_F_0000.csv.zip
+2025-07-02 13:46:24,519 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250502_F_0000.csv
+2025-07-02 13:46:24,603 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250502.csv
+2025-07-02 13:46:24,604 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250702_F_0000.csv.zip
+2025-07-02 13:46:24,635 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250108_F_0000.csv
+2025-07-02 13:46:24,707 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250108.csv
+2025-07-02 13:46:24,708 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250205_F_0000.csv.zip
+2025-07-02 13:46:24,724 [WARNING] Failed 20250702: Status 404
+2025-07-02 13:46:24,724 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250520_F_0000.csv.zip
+2025-07-02 13:46:24,880 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250205_F_0000.csv
+2025-07-02 13:46:24,945 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250205.csv
+2025-07-02 13:46:24,945 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250210_F_0000.csv.zip
+2025-07-02 13:46:24,971 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250520_F_0000.csv
+2025-07-02 13:46:25,048 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250520.csv
+2025-07-02 13:46:25,049 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250131_F_0000.csv.zip
+2025-07-02 13:46:25,075 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250210_F_0000.csv
+2025-07-02 13:46:25,155 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250210.csv
+2025-07-02 13:46:25,156 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250116_F_0000.csv.zip
+2025-07-02 13:46:25,184 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250131_F_0000.csv
+2025-07-02 13:46:25,280 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250131.csv
+2025-07-02 13:46:25,281 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250225_F_0000.csv.zip
+2025-07-02 13:46:25,319 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250116_F_0000.csv
+2025-07-02 13:46:25,424 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250116.csv
+2025-07-02 13:46:25,425 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250429_F_0000.csv.zip
+2025-07-02 13:46:25,457 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250225_F_0000.csv
+2025-07-02 13:46:25,539 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250225.csv
+2025-07-02 13:46:25,540 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250506_F_0000.csv.zip
+2025-07-02 13:46:25,591 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250429_F_0000.csv
+2025-07-02 13:46:25,670 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250429.csv
+2025-07-02 13:46:25,671 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250407_F_0000.csv.zip
+2025-07-02 13:46:25,701 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250506_F_0000.csv
+2025-07-02 13:46:25,791 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250506.csv
+2025-07-02 13:46:25,792 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250217_F_0000.csv.zip
+2025-07-02 13:46:25,835 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250407_F_0000.csv
+2025-07-02 13:46:25,926 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250407.csv
+2025-07-02 13:46:25,927 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250214_F_0000.csv.zip
+2025-07-02 13:46:25,958 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250217_F_0000.csv
+2025-07-02 13:46:26,049 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250217.csv
+2025-07-02 13:46:26,050 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250307_F_0000.csv.zip
+2025-07-02 13:46:26,086 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250214_F_0000.csv
+2025-07-02 13:46:26,180 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250214.csv
+2025-07-02 13:46:26,181 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250521_F_0000.csv.zip
+2025-07-02 13:46:26,237 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250307_F_0000.csv
+2025-07-02 13:46:26,354 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250307.csv
+2025-07-02 13:46:26,355 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250102_F_0000.csv.zip
+2025-07-02 13:46:26,397 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250521_F_0000.csv
+2025-07-02 13:46:26,527 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250521.csv
+2025-07-02 13:46:26,528 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250110_F_0000.csv.zip
+2025-07-02 13:46:26,580 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250102_F_0000.csv
+2025-07-02 13:46:26,695 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250102.csv
+2025-07-02 13:46:26,696 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250423_F_0000.csv.zip
+2025-07-02 13:46:26,747 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250110_F_0000.csv
+2025-07-02 13:46:26,856 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250110.csv
+2025-07-02 13:46:26,857 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250731_F_0000.csv.zip
+2025-07-02 13:46:26,922 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250423_F_0000.csv
+2025-07-02 13:46:27,237 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250423.csv
+2025-07-02 13:46:27,239 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250109_F_0000.csv.zip
+2025-07-02 13:46:27,245 [WARNING] Failed 20250731: Status 404
+2025-07-02 13:46:27,249 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250401_F_0000.csv.zip
+2025-07-02 13:46:27,416 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250401_F_0000.csv
+2025-07-02 13:46:27,538 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250401.csv
+2025-07-02 13:46:27,540 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250603_F_0000.csv.zip
+2025-07-02 13:46:27,665 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250109_F_0000.csv
+2025-07-02 13:46:27,952 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250109.csv
+2025-07-02 13:46:27,958 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250312_F_0000.csv.zip
+2025-07-02 13:46:28,006 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250603_F_0000.csv
+2025-07-02 13:46:28,132 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250603.csv
+2025-07-02 13:46:28,134 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250206_F_0000.csv.zip
+2025-07-02 13:46:28,187 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250312_F_0000.csv
+2025-07-02 13:46:28,303 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250312.csv
+2025-07-02 13:46:28,304 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250725_F_0000.csv.zip
+2025-07-02 13:46:28,352 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250206_F_0000.csv
+2025-07-02 13:46:28,462 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250206.csv
+2025-07-02 13:46:28,464 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250221_F_0000.csv.zip
+2025-07-02 13:46:28,466 [WARNING] Failed 20250725: Status 404
+2025-07-02 13:46:28,466 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250313_F_0000.csv.zip
+2025-07-02 13:46:28,703 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250221_F_0000.csv
+2025-07-02 13:46:28,834 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250221.csv
+2025-07-02 13:46:28,835 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250428_F_0000.csv.zip
+2025-07-02 13:46:28,872 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250313_F_0000.csv
+2025-07-02 13:46:28,961 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250313.csv
+2025-07-02 13:46:28,962 [INFO] Downloading: BhavCopy_NSE_CM_0_0_0_20250418_F_0000.csv.zip
+2025-07-02 13:46:28,991 [INFO] Loaded BhavCopy_NSE_CM_0_0_0_20250428_F_0000.csv
+2025-07-02 13:46:29,079 [INFO] Saved daily BhavCopy data to BhavCopy_Data/BhavCopy_20250428.csv
+2025-07-02 13:46:29,080 [WARNING] Failed 20250418: Status 404
+2025-07-02 13:46:29,081 [INFO] Downloaded 123 daily BhavCopy files for year 2025
