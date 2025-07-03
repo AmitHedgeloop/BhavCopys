@@ -9,6 +9,8 @@ import os            # Library for OS operations like creating directories
 import time          # Library for time-related functions
 import logging       # Library for logging information and errors
 import random        # Library for generating random numbers for sleep time
+import asyncpg       # Library for async PostgreSQL connections
+from glob import glob  # Library for file pattern matching
 
 # Setup logging configuration to track program execution
 logging.basicConfig(
@@ -19,6 +21,9 @@ logging.basicConfig(
         logging.StreamHandler()                          # Also log to console
     ]
 )
+
+# Database connection string
+DATABASE_URL = "postgresql://postgres:root@localhost:5432/gethigh"
 
 # NSE Holiday list - days when the stock market is closed
 # Format: YYYYMMDD
@@ -178,6 +183,148 @@ def generate_date_list(year):
             
     return dates
 
+async def create_bhavcopy_table():
+    """
+    Create the bhavcopy table in PostgreSQL if it doesn't exist
+    """
+    conn = await asyncpg.connect(DATABASE_URL)
+    try:
+        # SQL to create table if it doesn't exist
+        create_table_sql = """
+        CREATE TABLE IF NOT EXISTS bhavcopy (
+            stock_name TEXT,
+            instrument_type TEXT,
+            open_price NUMERIC(10,2),
+            high_price NUMERIC(10,2),
+            low_price NUMERIC(10,2),
+            close_price NUMERIC(10,2),
+            volume BIGINT,
+            trade_date DATE
+        );
+        """
+        await conn.execute(create_table_sql)
+        logging.info("BhavCopy table created or already exists")
+    except Exception as e:
+        logging.error(f"Error creating table: {e}")
+    finally:
+        await conn.close()
+
+async def insert_bhavcopy_to_postgres(csv_dir="BhavCopy_Data", batch_size=1000):
+    """
+    Insert all BhavCopy CSVs into PostgreSQL in batches with error handling.
+    
+    Args:
+        csv_dir: Directory containing BhavCopy CSV files
+        batch_size: Number of records to insert in each batch
+    """
+    # Column mapping: CSV -> DB
+    col_map = {
+        "TckrSymb": "stock_name",
+        "SctySrs": "instrument_type",
+        "OpnPric": "open_price",
+        "HghPric": "high_price",
+        "LwPric": "low_price",
+        "ClsPric": "close_price",
+        "TtlTradgVol": "volume",
+        "Date": "trade_date"
+    }
+    
+    # SQL insert statement
+    insert_sql = """
+        INSERT INTO bhavcopy (stock_name, instrument_type, open_price, high_price, low_price, close_price, volume, trade_date)
+        VALUES ($1, $2, $3, $4, $5, $6, $7, $8)
+        ON CONFLICT (stock_name, trade_date) DO NOTHING
+    """
+
+    # First create the table if it doesn't exist
+    await create_bhavcopy_table()
+    
+    # Now connect to insert data
+    conn = await asyncpg.connect(DATABASE_URL)
+    try:
+        # Add unique constraint if it doesn't exist
+        try:
+            await conn.execute("""
+                ALTER TABLE bhavcopy ADD CONSTRAINT bhavcopy_unique 
+                UNIQUE (stock_name, trade_date)
+            """)
+            logging.info("Added unique constraint to bhavcopy table")
+        except Exception as e:
+            # Constraint might already exist
+            logging.info(f"Note: {e}")
+        
+        # Get all CSV files
+        csv_files = glob(os.path.join(csv_dir, "BhavCopy_*.csv"))
+        total_files = len(csv_files)
+        processed = 0
+        
+        for csv_file in csv_files:
+            try:
+                df = pd.read_csv(csv_file)
+                
+                # Check if all required columns exist
+                if not all(col in df.columns for col in col_map.keys()):
+                    missing_cols = [col for col in col_map.keys() if col not in df.columns]
+                    logging.warning(f"Skipping {csv_file}: Missing columns: {missing_cols}")
+                    continue
+                
+                # Select only the required columns
+                df = df[list(col_map.keys())]
+                
+                # Rename columns manually
+                new_df = pd.DataFrame()
+                for old_col, new_col in col_map.items():
+                    new_df[new_col] = df[old_col]
+                df = new_df
+                
+                # Convert trade_date to date type
+                df['trade_date'] = pd.to_datetime(df['trade_date'], format='%Y%m%d', errors='coerce').dt.date
+                
+                # Replace NaN values with empty strings or appropriate defaults
+                df['stock_name'] = df['stock_name'].fillna('')
+                df['instrument_type'] = df['instrument_type'].fillna('')
+                df['open_price'] = df['open_price'].fillna(0).round(2)
+                df['high_price'] = df['high_price'].fillna(0).round(2)
+                df['low_price'] = df['low_price'].fillna(0).round(2)
+                df['close_price'] = df['close_price'].fillna(0).round(2)
+                df['volume'] = df['volume'].fillna(0)
+                
+                # Drop rows with missing required data
+                df = df.dropna(subset=['stock_name', 'trade_date'])
+                
+                # Prepare records for batch insert
+                records = []
+                for _, row in df.iterrows():
+                    records.append((
+                        row['stock_name'],
+                        row['instrument_type'],
+                        round(float(row['open_price']), 2),
+                        round(float(row['high_price']), 2),
+                        round(float(row['low_price']), 2),
+                        round(float(row['close_price']), 2),
+                        row['volume'],
+                        row['trade_date']
+                    ))
+                
+                # Insert in batches
+                for i in range(0, len(records), batch_size):
+                    batch = records[i:i+batch_size]
+                    await conn.executemany(insert_sql, batch)
+                
+                processed += 1
+                if processed % 10 == 0:  # Log progress every 10 files
+                    logging.info(f"Progress: {processed}/{total_files} files processed")
+                
+            except Exception as e:
+                logging.error(f"Failed to process {csv_file}: {e}")
+        
+        logging.info(f"Completed: {processed}/{total_files} files successfully processed")
+        
+    except Exception as e:
+        logging.error(f"Database error: {e}")
+    finally:
+        await conn.close()
+
 async def main(n_years):
     """
     Main function to download BhavCopy data for the last n years
@@ -203,7 +350,12 @@ async def main(n_years):
         # Download data for this year
         # This starts the download process for all trading days in the year
         await download_bhavcopy_year(year, month_tasks)
+    
+    # After downloading all files, insert them into PostgreSQL
+    logging.info("Starting database import...")
+    await insert_bhavcopy_to_postgres()
+    logging.info("Database import completed")
 
 if __name__ == "__main__":
-    n_years = 1  # Number of years to download (change as needed)
+    n_years = 2  # Number of years to download (change as needed)
     asyncio.run(main(n_years))  # Start the async program with the event loop
